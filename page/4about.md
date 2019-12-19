@@ -9,16 +9,12 @@ type: page
 * content
 {:toc}
 
-## 关于我
-
-<iframe src="https://githubbadge.appspot.com/gaohaoyang?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
-
-## 联系我
+## Contact Me
 
 * GitHub：[hoyinchu](https://github.com/hoyinchu)
 * email：hoyinchu2016@gmail.com
 
-## 友情链接
+## Links
 
 [Chewy](http://chewy.com) \| [Google](https://www.google.com) 
 
