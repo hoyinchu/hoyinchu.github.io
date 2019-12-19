@@ -15,7 +15,7 @@
   var demoContent = [
     {
       demo_link: 'https://google.com',
-      img_link: '../asset/img/the-great-wave-off-Kanagawa.png',
+      img_link: '../asset/img/the-great-wave-off-Kanagawa.jpg',
       code_link: 'https://google.com',
       title: 'Test Demo',
       core_tech: 'JavaScript',
@@ -50,7 +50,7 @@ function contentInit(content) {
   // var htmlStr = htmlArr.join('')
   var htmlStr = ''
   for (var i = 0; i < content.length; i++) {
-    htmlStr += '<div class="grid-item">' + '   <a class="a-img" href="' + content[i].demo_link + '">' + '       <img src="' + content[i].img_link + '">' + '   </a>' + '   <h3 class="demo-title">' + '       <a href="' + content[i].demo_link + '">' + content[i].title + '</a>' + '   </h3>' + '   <p>主要技术：' + content[i].core_tech + '</p>' + '   <p>' + content[i].description + '       <a href="' + content[i].code_link + '">源代码 <i class="fa fa-code" aria-hidden="true"></i></a>' + '   </p>' + '</div>'
+    htmlStr += '<div class="grid-item">' + '   <a class="a-img" href="' + content[i].demo_link + '">' + '       <img src="' + content[i].img_link + '">' + '   </a>' + '   <h3 class="demo-title">' + '       <a href="' + content[i].demo_link + '">' + content[i].title + '</a>' + '   </h3>' + '   <p>主要技术：' + content[i].core_tech + '</p>' + '   <p>' + content[i].description + '       <a href="' + content[i].code_link + '">Source Code <i class="fa fa-code" aria-hidden="true"></i></a>' + '   </p>' + '</div>'
   }
   var grid = document.querySelector('.grid')
   grid.insertAdjacentHTML('afterbegin', htmlStr)
