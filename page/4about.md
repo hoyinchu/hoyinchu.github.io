@@ -12,12 +12,8 @@ type: page
 ## Contact Me
 
 * GitHub：[hoyinchu](https://github.com/hoyinchu)
-* email：hoyinchu2016@gmail.com
+* Email：hoyinchu2016@gmail.com
 
 ## Links
 
-[Chewy](http://chewy.com) \| [FreeForDev] (https://free-for.dev/#/)
-
-## Comments
-
-{% include comments.html %}
+[Chewy](http://chewy.com) \| [FreeForDev] (http://free-for.dev/)
