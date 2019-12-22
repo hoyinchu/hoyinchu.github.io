@@ -10,10 +10,11 @@ type: page
 {:toc}
 
 ## Contact Me
-
-* GitHub：[hoyinchu](https://github.com/hoyinchu)
-* Email：hoyinchu2016@gmail.com
+* [Resume](../asset/pdf/Hoyin_Chu_Resume.pdf)
+* [Linkedin](https://www.linkedin.com/in/hoyin-chu-65b411137/)
+* [Github](https://github.com/hoyinchu)
+* hoyinchu2016@gmail.com
 
 ## Links
 
-[Chewy](http://chewy.com) \| [FreeForDev] (http://free-for.dev/)
+[Chewy](http://chewy.com) \| [FreeForDev](http://free-for.dev/)

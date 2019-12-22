@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello World"
-categories: JavaScript
+categories: Misc
 tags:  learning 
 ---
 
