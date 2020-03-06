@@ -20,7 +20,47 @@
       title: 'Test Demo',
       core_tech: 'JavaScript',
       description: 'This just a test!'
-    }
+    },
+    {
+      demo_link: 'https://play.google.com/store/apps/details?id=hoyinpersonal.npcompletelibrary&hl=en_US',
+      img_link: '../asset/img/np_complete_library_cover.png',
+      code_link: 'https://github.com/hoyinchu/NP-Complete-Library-App',
+      title: 'NP Complete Library',
+      core_tech: 'Java',
+      description: 'An app I made back when Java was the only thing I knew. There are probably more strings than actual code.'
+    },
+    {
+      demo_link: 'https://github.com/hoyinchu/Evolutionary-Dynamics/blob/master/Evolutionary%20Dynamics%20Final%20Presentation.pdf',
+      img_link: '../asset/img/EvolutionaryDynamic.png',
+      code_link: 'https://github.com/hoyinchu/Evolutionary-Dynamics/blob/master/Hoyin%20Chu%20--%20Introduction%20to%20Evolutionary%20Dynamics%20and%20Stochastic%20Calculus.pdf',
+      title: 'Evolutionary Dynamic',
+      core_tech: 'Python, Math, Statistics',
+      description: 'REU Experience with Northeastern University Math Department during 2019 Summer 1. Learned so much math it made me want to do data science (also wrote a paper!).'
+    },
+    {
+      demo_link: 'https://youtu.be/8aQmOaVt7j0',
+      img_link: '../asset/img/osu.png',
+      code_link: 'https://github.com/hoyinchu/Osu-Beatmap-Analysis',
+      title: 'Osu Beatmap Popularity Analysis',
+      core_tech: 'R, SQL',
+      description: 'The very first data science project I did. The presentation video was filmed 12 minutes before the deadline so please have mercy.'
+    },
+    {
+      demo_link: 'https://hoyinchu.github.io/demo/',
+      img_link: '../asset/img/demo.png',
+      code_link: 'https://github.com/hoyinchu/hoyinchu.github.io',
+      title: 'Hoyin\'s Personal Website',
+      core_tech: 'Markdown',
+      description: 'Literally this site'
+    },
+    {
+      demo_link: '',
+      img_link: '../asset/img/tbd.png',
+      code_link: '',
+      title: 'Rock Climbing Route Difficulty Recognizer',
+      core_tech: 'Python, Javascript, Pytorch, Scikit-learn',
+      description: 'Trying to determine the difficulty of a rock climbing route using ml. In progress.'
+    },
   ];
 
   contentInit(demoContent) //内容初始化
