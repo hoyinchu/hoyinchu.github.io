@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello World"
 categories: Misc
-tags:  learning 
+tags:  misc 
 ---
 
 * content
