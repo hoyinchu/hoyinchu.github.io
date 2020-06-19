@@ -54,12 +54,12 @@
       description: 'Literally this site'
     },
     {
-      demo_link: '',
-      img_link: '../asset/img/tbd.png',
-      code_link: '',
-      title: 'Rock Climbing Route Difficulty Recognizer',
+      demo_link: 'https://github.com/hoyinchu/RockClimbingProblemClassifier',
+      img_link: '../asset/img/sample_moonboard_problem.png',
+      code_link: 'https://github.com/hoyinchu/RockClimbingProblemClassifier',
+      title: 'Rock Climbing Problem Classifier',
       core_tech: 'Python, Javascript, Pytorch, Scikit-learn',
-      description: 'Trying to determine the difficulty of a rock climbing route using ml. In progress.'
+      description: 'Trying to determine the difficulty of a rock climbing route by applying different ML techniques, from Naive Bayes to CNN.'
     },
   ];
 
