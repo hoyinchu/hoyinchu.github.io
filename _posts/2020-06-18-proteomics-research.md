@@ -2,7 +2,7 @@
 layout: post
 title:  "Proteomics Research"
 categories: Research
-tags:  Python, Research 
+tags:  Python Research 
 ---
 
 * content

@@ -14,14 +14,6 @@
      */
   var demoContent = [
     {
-      demo_link: 'https://google.com',
-      img_link: '../asset/img/the-great-wave-off-Kanagawa.jpg',
-      code_link: 'https://google.com',
-      title: 'Test Demo',
-      core_tech: 'JavaScript',
-      description: 'This just a test!'
-    },
-    {
       demo_link: 'https://play.google.com/store/apps/details?id=hoyinpersonal.npcompletelibrary&hl=en_US',
       img_link: '../asset/img/np_complete_library_cover.png',
       code_link: 'https://github.com/hoyinchu/NP-Complete-Library-App',

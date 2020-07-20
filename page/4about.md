@@ -9,7 +9,7 @@ type: page
 * content
 {:toc}
 
-I am a 4th-year undergraduate student at Northeastern University majoring in computer science and mathematics who loves doing research and learning about new things. I am interested in developing novel machine learning algorithms to tackle problems in biology and I am currently a member of [Pedja's lab](https://www.ccs.neu.edu/home/radivojac/)
+I am a 4th-year undergraduate student at Northeastern University majoring in computer science and mathematics who loves doing research and learning about new things. I am interested in developing novel machine learning algorithms and applying them to problems in biology. Currently I am a member of [Pedja's lab](https://www.ccs.neu.edu/home/radivojac/). Check out the demo page for some of the works I have done!
 
 ## Contact Me
 * [Resume](../asset/pdf/Hoyin_Chu_Resume.pdf)
