@@ -19,4 +19,4 @@ I am a 4th-year undergraduate student at Northeastern University majoring in com
 
 ## Links
 
-[Predrag Radivojac's lab](https://www.ccs.neu.edu/home/radivojac/) \| [Chewy](http://chewy.com) \| [BlockTEST](https://blocktest.com/)
+[Radivojac Statistical Methods Lab](https://www.ccs.neu.edu/home/radivojac/) \| [Chewy](http://chewy.com) \| [BlockTEST](https://blocktest.com/)
