@@ -53,6 +53,14 @@
       core_tech: 'Python, Javascript, Pytorch, Scikit-learn',
       description: 'Determining the difficulty of a rock climbing route, from Naive Bayes to CNN.'
     },
+    {
+      demo_link:'https://github.com/hoyinchu/ProteomicsResearch',
+      img_link: '../asset/img/hemoglobin_quaternary.png',
+      code_link: 'https://github.com/hoyinchu/ProteomicsResearch',
+      title: 'Proteomics Research',
+      core_tech: 'Python, R',
+      description: 'A WIP collection of notebooks that explore proteomic datasets.'
+    }
   ];
 
   contentInit(demoContent) //内容初始化
