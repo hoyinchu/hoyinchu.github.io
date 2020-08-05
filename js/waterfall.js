@@ -60,6 +60,14 @@
       title: 'Proteomics Research',
       core_tech: 'Python, R',
       description: 'A WIP collection of notebooks that explore proteomic datasets.'
+    },
+    {
+      demo_link: 'https://github.com/hoyinchu/biolink',
+      img_link: '../asset/img/bio_link.png',
+      code_link: 'https://github.com/hoyinchu/biolink',
+      title: 'Biolink',
+      core_tech: 'Neo4j, Python',
+      description: 'A contributor to this database of networked biological knowledge'
     }
   ];
 
