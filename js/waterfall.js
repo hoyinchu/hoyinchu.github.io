@@ -63,7 +63,7 @@
     },
     {
       demo_link: 'https://github.com/hoyinchu/biolink',
-      img_link: '../asset/img/bio_link.png',
+      img_link: '../asset/img/biolink.png',
       code_link: 'https://github.com/hoyinchu/biolink',
       title: 'Biolink',
       core_tech: 'Neo4j, Python',
