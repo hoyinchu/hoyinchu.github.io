@@ -2,7 +2,7 @@
 layout: post
 title:  "Civic Digital Fellowship"
 categories: Awards
-tags:  Software\ Engineering Data\ Science Fellowship
+tags:  SoftwareEngineering DataScience Fellowship Awards
 ---
 
 * content
