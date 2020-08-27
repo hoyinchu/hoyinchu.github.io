@@ -9,14 +9,19 @@ type: page
 * content
 {:toc}
 
-I am a 4th-year undergraduate student at Northeastern University majoring in computer science and mathematics who loves doing research and learning about new things. I am interested in developing novel machine learning algorithms and applying them to problems in biology. Currently I am a member of [Pedja's lab](https://www.ccs.neu.edu/home/radivojac/). Check out the demo page for some of the works I have done!
+![Picture](../asset/img/hoyinchu_side_view.jpg)
+
+I am a 5th-year undergraduate student at Northeastern University majoring in computer science and mathematics. Research is my passion and the areas I am interested in are machine learning and computational biology. More specifically, I am interested in finding ways to incorporate recent advances in machine learning such as deep learning to the biological/medical domain where data imbalances/noisiness are significant and model interpretability is crucial. Currently I am a member of [Pedja's lab](https://www.ccs.neu.edu/home/radivojac/) and in the past I have been a software engineer at [Chewy](http://chewy.com) and [BlockTEST](https://blocktest.com/). Check out the demo page for some of the works I have done!
+
+## Awards and Honors
+* [Civic Digital Fellow](https://www.codingitforward.com/fellowship), hosted by the National Institute of Health (NIH), 2020
+* Northeastern University, Khoury College Dean's List, 2016-2020
+
+## Links
+[Civic Digital Fellow](https://www.codingitforward.com/fellowship) \| [Radivojac Statistical Methods Lab](https://www.ccs.neu.edu/home/radivojac/) \| [Chewy](http://chewy.com) \| [BlockTEST](https://blocktest.com/)
 
 ## Contact Me
 * [Resume](../asset/pdf/Hoyin_Chu_Resume.pdf)
 * [Linkedin](https://www.linkedin.com/in/hoyin-chu-65b411137/)
 * [Github](https://github.com/hoyinchu)
 * hoyinchu2016@gmail.com
-
-## Links
-
-[Radivojac Statistical Methods Lab](https://www.ccs.neu.edu/home/radivojac/) \| [Chewy](http://chewy.com) \| [BlockTEST](https://blocktest.com/)

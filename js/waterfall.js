@@ -19,15 +19,15 @@
       code_link: 'https://github.com/hoyinchu/NP-Complete-Library-App',
       title: 'NP Complete Library',
       core_tech: 'Java',
-      description: 'An app I made back when Java was the only thing I know. Available on Google Play Store!'
+      description: 'An app I made back when Java was the only language I knew. Available ads free on Google Play Store!'
     },
     {
       demo_link: 'https://github.com/hoyinchu/Evolutionary-Dynamics/blob/master/Evolutionary%20Dynamics%20Final%20Presentation.pdf',
       img_link: '../asset/img/EvolutionaryDynamic.png',
       code_link: 'https://github.com/hoyinchu/Evolutionary-Dynamics/blob/master/Hoyin%20Chu%20--%20Introduction%20to%20Evolutionary%20Dynamics%20and%20Stochastic%20Calculus.pdf',
       title: 'Evolutionary Dynamic',
-      core_tech: 'Python, Math, Statistics',
-      description: 'First REU Experience. Paper included (Warning: Math).'
+      core_tech: 'Network, Graph Theory, Python, Statistic',
+      description: 'First REU Experience. Paper included.'
     },
     {
       demo_link: 'https://youtu.be/8aQmOaVt7j0',
@@ -59,7 +59,7 @@
       code_link: 'https://github.com/hoyinchu/ProteomicsResearch',
       title: 'Proteomics Research',
       core_tech: 'Python, R',
-      description: 'A WIP collection of notebooks that explore proteomic datasets.'
+      description: 'A WIP collection of notebooks that explores proteomic datasets.'
     },
     {
       demo_link: 'https://github.com/hoyinchu/biolink',
@@ -67,7 +67,7 @@
       code_link: 'https://github.com/hoyinchu/biolink',
       title: 'Biolink',
       core_tech: 'Neo4j, Python',
-      description: 'A contributor to this database of networked biological knowledge'
+      description: 'A database of networked biological knowledge'
     }
   ];
 
