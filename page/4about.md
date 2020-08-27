@@ -15,7 +15,7 @@ I am a 5th-year undergraduate student at Northeastern University majoring in com
 
 ## Awards and Honors
 * [Civic Digital Fellow](https://www.codingitforward.com/fellowship), hosted by the National Institutes of Health (NIH), 2020
-* Northeastern University, Khoury College Dean's List, 2016-2020
+* Dean's List, Northeastern University Khoury College, 2016-2020
 
 ## Links
 [Civic Digital Fellow](https://www.codingitforward.com/fellowship) \| [Radivojac Statistical Methods Lab](https://www.ccs.neu.edu/home/radivojac/) \| [Chewy](http://chewy.com) \| [BlockTEST](https://blocktest.com/)
