@@ -9,7 +9,7 @@ type: page
 * content
 {:toc}
 
-![Picture](../asset/img/hoyinchu_side_view.jpg =238x318)
+<img src="../asset/img/hoyinchu_side_view.jpg" alt="picture of me" width="238" height="318"/>
 
 I am a 5th-year undergraduate student at Northeastern University majoring in computer science and mathematics. Research is my passion and the areas I am interested in are machine learning and computational biology. More specifically, I am interested in finding ways to incorporate recent advances in machine learning such as deep learning to the biological/medical domain where data imbalances/noisiness are significant and model interpretability is crucial. Currently I am a member of [Pedja's lab](https://www.ccs.neu.edu/home/radivojac/) and in the past I have been a software engineer at [Chewy](http://chewy.com) and [BlockTEST](https://blocktest.com/). Check out the demo page for some of the works I have done!
 
