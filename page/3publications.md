@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Collections
-permalink: /collection/
+title: Publications
+permalink: /publications/
 icon: bookmark
 type: page
 ---
@@ -9,3 +9,4 @@ type: page
 * content
 {:toc}
 
+Coming Soon...
