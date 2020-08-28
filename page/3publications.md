@@ -9,4 +9,11 @@ type: page
 * content
 {:toc}
 
+# Journals
+Coming Soon...
+
+# Conferences
+Coming Soon...
+
+# Preprint
 Coming Soon...
