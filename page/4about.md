@@ -18,7 +18,7 @@ I am a 5th-year undergraduate student at Northeastern University majoring in com
 * Dean's List, Northeastern University Khoury College, 2016-2020
 
 ## Links
-* [Email](hoyinchu2016@gmail.com) hoyinchu2016@gmail.com
+* Email: hoyinchu2016 at gmail.com
 * [Resume](../asset/pdf/Hoyin_Chu_Resume.pdf)
 * [Linkedin](https://www.linkedin.com/in/hoyin-chu-65b411137/)
 * [Github](https://github.com/hoyinchu)
@@ -26,4 +26,4 @@ I am a 5th-year undergraduate student at Northeastern University majoring in com
 
 ## Fun
 * [Chess](http://www.masschess.org/chess_horizons/chess-horizons-article.aspx?ch_uid=249)
-* [Games] (https://globalgamejam.org/users/hoyinchu)
+* [Games](https://globalgamejam.org/users/hoyinchu)
