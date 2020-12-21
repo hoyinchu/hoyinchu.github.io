@@ -27,7 +27,7 @@
       code_link: 'https://github.com/hoyinchu/Evolutionary-Dynamics/blob/master/Hoyin%20Chu%20--%20Introduction%20to%20Evolutionary%20Dynamics%20and%20Stochastic%20Calculus.pdf',
       title: 'Evolutionary Dynamic',
       core_tech: 'Network, Graph Theory, Python, Statistic',
-      description: 'First REU Experience. Paper included.'
+      description: 'First REU Experience. Paper included'
     },
     {
       demo_link: 'https://youtu.be/8aQmOaVt7j0',
@@ -35,7 +35,7 @@
       code_link: 'https://github.com/hoyinchu/Osu-Beatmap-Analysis',
       title: 'Osu Beatmap Popularity Analysis',
       core_tech: 'R, SQL',
-      description: 'My first ever data science project.'
+      description: 'My first ever data science project'
     },
     {
       demo_link: 'https://hoyinchu.github.io/demo/',
@@ -51,7 +51,7 @@
       code_link: 'https://github.com/hoyinchu/RockClimbingProblemClassifier',
       title: 'Rock Climbing Problem Classifier',
       core_tech: 'Python, Javascript, Pytorch, Scikit-learn',
-      description: 'Determining the difficulty of a rock climbing route, from Naive Bayes to CNN.'
+      description: 'Determining the difficulty of a rock climbing route, from Naive Bayes to CNN'
     },
     {
       demo_link:'https://github.com/hoyinchu/ProteomicsResearch',
@@ -59,7 +59,7 @@
       code_link: 'https://github.com/hoyinchu/ProteomicsResearch',
       title: 'Proteomics Research',
       core_tech: 'Python, R',
-      description: 'A WIP collection of notebooks that explores proteomic datasets.'
+      description: 'A WIP collection of notebooks that explores proteomic datasets'
     },
     {
       demo_link: 'https://github.com/hoyinchu/biolink',
@@ -68,6 +68,14 @@
       title: 'Biolink',
       core_tech: 'Neo4j, Python',
       description: 'A database of networked biological knowledge'
+    },
+    {
+      demo_link: 'https://github.com/cmarcum/DAC-Report',
+      img_link: '../asset/img/dac_reporting_tool.png',
+      code_link: 'https://github.com/cmarcum/DAC-Report',
+      title: 'DAC Reporting Tool',
+      core_tech: 'R',
+      description: 'A data pipeline for automatic report generation'
     }
   ];
 
