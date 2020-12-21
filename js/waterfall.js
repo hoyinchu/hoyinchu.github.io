@@ -71,7 +71,7 @@
     },
     {
       demo_link: 'https://github.com/cmarcum/DAC-Report',
-      img_link: '../asset/img/dac_reporting_tool.png',
+      img_link: '../asset/img/dac_reporting_tool_icon.png',
       code_link: 'https://github.com/cmarcum/DAC-Report',
       title: 'DAC Reporting Tool',
       core_tech: 'R',
