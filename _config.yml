@@ -8,7 +8,7 @@
 # Site settings
 title: Hoyin Chu
 brief-intro: Welcome!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/about" # the subpath of your site, e.g. /blog
 url: "https://hoyinchu.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
