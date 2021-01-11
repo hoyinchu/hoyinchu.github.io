@@ -76,6 +76,14 @@
       title: 'DAC Reporting Tool',
       core_tech: 'R',
       description: 'A data pipeline for automatic report generation'
+    },
+    {
+      demo_link: "https://www.chewy.com/american-journey-salmon-sweet-potato/dp/135821",
+      img_link: '../asset/img/chewy_logo.jpeg',
+      code_link: "https://www.chewy.com/american-journey-salmon-sweet-potato/dp/135821",
+      title: 'Chewy',
+      core_tech: 'Javascript, Vue, Java, Kotlin',
+      description: 'Developed new components for the Product Display Page and Home Page'
     }
   ];
 
