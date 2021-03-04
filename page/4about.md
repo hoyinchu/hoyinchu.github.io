@@ -17,6 +17,11 @@ I am a 5th-year undergraduate student at Northeastern University majoring in com
 * [Civic Digital Fellow](https://www.codingitforward.com/fellowship), hosted by the National Institutes of Health (NIH), 2020
 * Dean's List, Northeastern University Khoury College, 2016-2020
 
+## News
+* [Interview with Khoury News](https://www.khoury.northeastern.edu/research-fellowship-in-biomedicine-inspires-hoyin-chu-to-serve-greater-good/)
+* [NIH Fellow Profile](https://datascience.nih.gov/fellowfriday-hoyin-chu)
+
+
 ## Links
 * Email: hoyinchu2016 at gmail.com
 * [CV](../asset/pdf/Hoyin_Chu_CV.pdf)
