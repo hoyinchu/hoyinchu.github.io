@@ -14,60 +14,12 @@
      */
   var demoContent = [
     {
-      demo_link: 'https://play.google.com/store/apps/details?id=hoyinpersonal.npcompletelibrary&hl=en_US',
-      img_link: '../asset/img/np_complete_library_cover.png',
-      code_link: 'https://github.com/hoyinchu/NP-Complete-Library-App',
-      title: 'NP Complete Library',
-      core_tech: 'Java',
-      description: 'An app I made back when Java was the only language I knew. Available ads free on Google Play Store!'
-    },
-    {
-      demo_link: 'https://github.com/hoyinchu/Evolutionary-Dynamics/blob/master/Evolutionary%20Dynamics%20Final%20Presentation.pdf',
-      img_link: '../asset/img/EvolutionaryDynamic.png',
-      code_link: 'https://github.com/hoyinchu/Evolutionary-Dynamics/blob/master/Hoyin%20Chu%20--%20Introduction%20to%20Evolutionary%20Dynamics%20and%20Stochastic%20Calculus.pdf',
-      title: 'Evolutionary Dynamic',
-      core_tech: 'Network, Graph Theory, Python, Statistic',
-      description: 'First REU Experience. Paper included'
-    },
-    {
-      demo_link: 'https://youtu.be/8aQmOaVt7j0',
-      img_link: '../asset/img/osu.png',
-      code_link: 'https://github.com/hoyinchu/Osu-Beatmap-Analysis',
-      title: 'Osu Beatmap Popularity Analysis',
-      core_tech: 'R, SQL',
-      description: 'My first ever data science project'
-    },
-    {
-      demo_link: 'https://hoyinchu.github.io/demo/',
-      img_link: '../asset/img/demo.png',
-      code_link: 'https://github.com/hoyinchu/hoyinchu.github.io',
-      title: 'Hoyin\'s Personal Website',
-      core_tech: 'Markdown',
-      description: 'This site'
-    },
-    {
-      demo_link: 'https://github.com/hoyinchu/RockClimbingProblemClassifier',
-      img_link: '../asset/img/sample_moonboard_problem.png',
-      code_link: 'https://github.com/hoyinchu/RockClimbingProblemClassifier',
-      title: 'Rock Climbing Problem Classifier',
-      core_tech: 'Python, Javascript, Pytorch, Scikit-learn',
-      description: 'Determining the difficulty of a rock climbing route, from Naive Bayes to CNN'
-    },
-    {
-      demo_link:'https://github.com/hoyinchu/ProteomicsResearch',
-      img_link: '../asset/img/hemoglobin_quaternary.png',
-      code_link: 'https://github.com/hoyinchu/ProteomicsResearch',
-      title: 'Proteomics Research',
-      core_tech: 'Python, R',
-      description: 'A WIP collection of notebooks that explores proteomic datasets'
-    },
-    {
-      demo_link: 'https://github.com/hoyinchu/biolink',
-      img_link: '../asset/img/biolink.png',
-      code_link: 'https://github.com/hoyinchu/biolink',
-      title: 'Biolink',
-      core_tech: 'Neo4j, Python',
-      description: 'A database of networked biological knowledge'
+      demo_link: "https://youtu.be/KE1BUN1AM4M",
+      img_link: '../asset/img/mimic.png',
+      code_link: "https://github.com/hoyinchu/MortalityPrediction",
+      title: 'Improving Mortality Prediction using Text Embeddings',
+      core_tech: 'Huggingface, Sklearn, Python',
+      description: "Improve models by embedding doctor\'s note through BERT"
     },
     {
       demo_link: 'https://github.com/cmarcum/DAC-Report',
@@ -84,7 +36,64 @@
       title: 'Chewy',
       core_tech: 'Javascript, Vue, Java, Kotlin',
       description: 'Developed new components for the Product Display Page and Home Page'
+    },
+    {
+      demo_link:'https://github.com/hoyinchu/ProteomicsResearch',
+      img_link: '../asset/img/hemoglobin_quaternary.png',
+      code_link: 'https://github.com/hoyinchu/ProteomicsResearch',
+      title: 'Proteomics Research',
+      core_tech: 'Python, R',
+      description: 'A WIP collection of notebooks that explores proteomic datasets'
+    },
+    {
+      demo_link: 'https://github.com/hoyinchu/RockClimbingProblemClassifier',
+      img_link: '../asset/img/sample_moonboard_problem.png',
+      code_link: 'https://github.com/hoyinchu/RockClimbingProblemClassifier',
+      title: 'Rock Climbing Problem Classifier',
+      core_tech: 'Python, Javascript, Pytorch, Scikit-learn',
+      description: 'Determining the difficulty of a rock climbing route, from Naive Bayes to CNN'
+    },
+    {
+      demo_link: 'https://github.com/hoyinchu/biolink',
+      img_link: '../asset/img/biolink.png',
+      code_link: 'https://github.com/hoyinchu/biolink',
+      title: 'Biolink',
+      core_tech: 'Neo4j, Python',
+      description: 'A database of networked biological knowledge'
+    },
+    {
+      demo_link: 'https://github.com/hoyinchu/Evolutionary-Dynamics/blob/master/Evolutionary%20Dynamics%20Final%20Presentation.pdf',
+      img_link: '../asset/img/EvolutionaryDynamic.png',
+      code_link: 'https://github.com/hoyinchu/Evolutionary-Dynamics/blob/master/Hoyin%20Chu%20--%20Introduction%20to%20Evolutionary%20Dynamics%20and%20Stochastic%20Calculus.pdf',
+      title: 'Evolutionary Dynamic',
+      core_tech: 'Network, Graph Theory, Python, Statistic',
+      description: 'First REU Experience. Paper included'
+    },
+    {
+      demo_link: 'https://play.google.com/store/apps/details?id=hoyinpersonal.npcompletelibrary&hl=en_US',
+      img_link: '../asset/img/np_complete_library_cover.png',
+      code_link: 'https://github.com/hoyinchu/NP-Complete-Library-App',
+      title: 'NP Complete Library',
+      core_tech: 'Java',
+      description: 'An app I made back when Java was the only language I knew. Available ads free on Google Play Store!'
+    },
+    {
+      demo_link: 'https://youtu.be/8aQmOaVt7j0',
+      img_link: '../asset/img/osu.png',
+      code_link: 'https://github.com/hoyinchu/Osu-Beatmap-Analysis',
+      title: 'Osu Beatmap Popularity Analysis',
+      core_tech: 'R, SQL',
+      description: 'My first ever data science project'
+    },
+    {
+      demo_link: 'https://hoyinchu.github.io/demo/',
+      img_link: '../asset/img/demo.png',
+      code_link: 'https://github.com/hoyinchu/hoyinchu.github.io',
+      title: 'Hoyin\'s Personal Website',
+      core_tech: 'Markdown',
+      description: 'This site'
     }
+
   ];
 
   contentInit(demoContent) //内容初始化
