@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Hoyin's personal website. Enjoy your stay.
+This is Hoyin's personal website. The site is still under going construction. Please check out the CV or Portfolio page and enjoy your stay.
