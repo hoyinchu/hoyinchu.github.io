@@ -11,30 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science and Mathematics, Northeastern University, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2021 - Present: Computational Biologist
+  * Dana-Farber Cancer Institute
+  * Understanding the genetic architecture of breast cancer in understudied population using machine learning approaches
+  * Supervisor: Saud Aldubayan, Eliezer Van Allen
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* March 2020 - June 2021: Research Assistant
+  * Northeastern University
+  * Developed and applied machine learning techniques to identify potential biomarkers and interventions for gestational diabetes among first-time mom
+  * Supervisor: Predrag Radivojac
+
+* October 2020 - December 2020: Data Scientist Fellow
+  * National Institute of Allergy and Infectious Diseases
+  * Automated the database of Genotypes and Phenotypes (dbGaP) usage reporting pipeline 
+  * Supervisor: Christopher Marcum
+
+* July 2019 - December 2019: Software Engineer
+  * Chewy
+
+* July 2018 - December 2018: Front-end Engineer
+  * BlockTEST
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Running Large-scale Genomics Pipeline using Cloud Computing Platform (GCP,Terra)
+  * Retrieving public raw sequencing reads from Sequencing Reads Archive (SRA)
+  * Aligning FASTQ files to various assemblies 
+  * Calling variants using deep learning 
+  * Computing Polygenic Risk Score
+
 
 Publications
 ======
@@ -54,6 +64,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
