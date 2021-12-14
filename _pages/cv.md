@@ -30,20 +30,20 @@ Work experience
   * Automated the database of Genotypes and Phenotypes (dbGaP) usage reporting pipeline 
   * Supervisor: Christopher Marcum
 
-* July 2019 - December 2019: Software Engineer
-  * Chewy
+* July 2019 - December 2019: Software Engineer at Chewy
 
-* July 2018 - December 2018: Front-end Engineer
-  * BlockTEST
+* July 2018 - December 2018: Front-end Engineer at BlockTEST
 
 
 Skills
 ======
-* Running Large-scale Genomics Pipeline using Cloud Computing Platform (GCP,Terra)
+* Constructing Large-scale Genomics Pipeline using Cloud Computing Platform (GCP,Terra)
   * Retrieving public raw sequencing reads from Sequencing Reads Archive (SRA)
   * Aligning FASTQ files to various assemblies 
   * Calling variants using deep learning 
+  * Constructing reference panel
   * Computing Polygenic Risk Score
+
 
 
 <!-- Publications
