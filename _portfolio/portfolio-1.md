@@ -1,6 +1,6 @@
 ---
 title: "Improving Mortality Prediction using Text Embeddings"
-excerpt: "Improve models by embedding doctor note through BERT<br/><img width='500' height='300' src='/images/old/mimic.png'>"
+excerpt: "Improve models by embedding doctor\'s note through BERT<br/><img width='500' height='300' src='/images/old/mimic.png'>"
 collection: portfolio
 ---
 
