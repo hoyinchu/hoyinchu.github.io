@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hoyin Chu"
   avatar           : "linkedin_profile.jfif"
-  bio              : "Computational Biologist at Dana-Farber Cancer Institute. Interested in machine learning and precision health."
+  bio              : "Computational Biologist at Dana-Farber Cancer Institute. Interested in machine learning, genomics and precision health."
   location         : "Boston, MA"
-  employer         :
+  employer         : "Dana-Farber Cancer Institute"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : hoyinchu2016@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/hoyin-chu-65b411137/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
