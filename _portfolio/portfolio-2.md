@@ -1,7 +1,6 @@
 ---
 title: "A Loss Function to Incorporate Structural Information Contained In the Output Space"
-excerpt: "How can we customize our embedding space by incorporating output class structure?<br/>
-<img src='/images/ds4420_project_cover.PNG'style='display:block;margin:auto'>"
+excerpt: "How can we customize our embedding space by incorporating output class structure?<br/><img src='/images/ds4420_project_cover.PNG'style='display:block;margin:auto'>"
 collection: portfolio
 ---
 
