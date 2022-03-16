@@ -86,7 +86,7 @@ author:
   location         : "Boston, MA"
   employer         : "Dana-Farber Cancer Institute"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=D4e1O2MAAAAJ"
   email            : hoyinchu2016@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
