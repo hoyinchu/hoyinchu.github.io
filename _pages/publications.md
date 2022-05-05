@@ -19,6 +19,8 @@ The influence of genetic predisposition and physical activity on risk of Gestati
 
 Germline predisposition to pediatric Ewing sarcoma is characterized by inherited pathogenic variants in DNA damage repair genes, <em>Riaz Gillani, Sabrina Y. Camp, Seunghun Han, Jill K. Jones, Hoyin Chu, Schuyler O’Brien, Erin L. Young, Lucy Hayes, Gareth Mitchell, Trent Fowler, Alexander Gusev, Junne Kamihara, Katherine A. Janeway, Joshua D. Schiffman, Brian D. Crompton<sup>\*</sup>, Saud H. AlDubayan<sup>\*</sup>, Eliezer M. Van Allen<sup>\*</sup></em>, The American Journal of Human Genetics, DOI: [https://doi.org/10.1016/j.ajhg.2022.04.007](https://doi.org/10.1016/j.ajhg.2022.04.007)
 
+Last update: 2022-05-05
+
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
