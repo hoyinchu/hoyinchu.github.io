@@ -44,7 +44,7 @@ Skills
   * Constructing reference panel
   * Computing Polygenic Risk Score
 
-
+Last update: 2021
 
 <!-- Publications
 ======
