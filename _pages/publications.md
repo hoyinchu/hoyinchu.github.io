@@ -7,23 +7,27 @@ author_profile: true
 
 {% include base_path %}
 
-<span style="color:red">First or Joint First Author</span>; \# Joint first authors; \* Corresponding author(s); <span style="color:blue">Journal or Conference</span>
+
+You can also find my papers on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+
+<span style="color:red">First or Joint First Author</span>; **Co-author**; \# Joint first authors; \* Corresponding author(s); <span style="color:blue">Journal or Conference</span>
 
 # Preprint
 
 2022
 
-<ins>Using Association Rules to Understand the Risk of Adverse Pregnancy Outcomes in a Diverse Population</ins>,  <em><span style="color:red">**Hoyin Chu**</span>, Rashika Ramola, Shantanu Jain, David M. Haas, Sriraam Natarajan, Predrag Radivojac<sup>\*</sup></em>, Under Review (2022)
+1. <ins>Using Association Rules to Understand the Risk of Adverse Pregnancy Outcomes in a Diverse Population</ins>,  <em><span style="color:red">**Hoyin Chu**</span>, Rashika Ramola, Shantanu Jain, David M. Haas, Sriraam Natarajan, Predrag Radivojac<sup>\*</sup></em>, Under Review (Aug 2022)
 
-<ins>Molecular landscape and clinical actionability of pharmacogenomic variants in unselected breast cancer patients from the indigenous Arab population</ins> <em>Abdullah Al-Sulaiman<sup>#</sup>, <span style="color:red">**Hoyin Chu**</span><sup>#</sup>, Mohammed Al-Jumaan, Mohammed Alyahya, Yousef Al Marzooq, Fatmah Almulhim, Chitti Babu Vatte, Arij Alnimer, Afnan Almuhanna, Amein Al-Ali<sup>\*</sup>, Saud H AlDubayan<sup>\*</sup></em>, Under Review (2022)
+1. <ins>Patients with Deleterious Germline Variants in STXBP2 Develop Toxicity after CAR-T Cell Therapy with Axicabtagene Ciloleucel</ins>, <em>Mark Leick, Seunghun Han, Kathleen Gallagher, Harrison Silva, Grace Martin, Sarbina Camp, **Hoyin Chu**, Riaz Gillani, Michael Kann, Bryan Choi, Rebecca Larson, Merle Phillips, Tamina Kienka, Stefanie Bailey, Charlotte Graham, Christopher Reilly, Max Jan, Elba Gonzalez, Nora Horick, Justin Budka, Simone Filosto, Rhine Shen, Eliezer Van Allen, Saud AlDubayan, Marcela Maus</em>, Abstract, Under Review (Aug 2022)
 
+1. <ins>Characteristics of rare germline ATM variants in chronic lymphocytic leukemia</ins>, <em>Kiyomi Mashima, Benjamin Lampson, Aditi Gupta, Nicholas Moore, Anna Petráčková,　Samantha Shupe, Stacey Fernandes, Amaro Taylor-Weiner, Riaz Gillani,
+**Hoyin Chu**, Seunghun Han, Sabrina Camp, Eric Kofman, Gad Getz, Catherine Wu, Eliezer Mendel Van Allen, Saud AlDubayan, Jennifer Brown</em>, Abstract, Under Review (July 2022)
 
-<ins>The influence of genetic predisposition and physical activity on risk of Gestational Diabetes Mellitus in the nuMoM2b cohort</ins>, <em>Kymberleigh A. Pagel<sup>#</sup>, <span style="color:red">**Hoyin Chu**</span><sup>#</sup>, Rashika Ramola<sup>#</sup>,  Rafael F. Guerrero, Judith H. Chung, Samuel Parry, Uma M. Reddy, Robert M. Silver, Jonathan G. Steller, Lynn M. Yee, Ronald J. Wapner, Matthew W. Hahn, Sriraam Natarajan, David M. Haas<sup>\*</sup>, Predrag Radivojac<sup>\*</sup></em> (2022). <span style="color:blue">medRxiv</span> [https://doi.org/10.1101/2022.03.08.22271868](https://doi.org/10.1101/2022.03.08.22271868)
+1. <ins>Molecular landscape and clinical actionability of pharmacogenomic variants in unselected breast cancer patients from the indigenous Arab population</ins> <em>Abdullah Al-Sulaiman<sup>#</sup>, <span style="color:red">**Hoyin Chu**</span><sup>#</sup>, Mohammed Al-Jumaan, Mohammed Alyahya, Yousef Al Marzooq, Fatmah Almulhim, Chitti Babu Vatte, Arij Alnimer, Afnan Almuhanna, Amein Al-Ali<sup>\*</sup>, Saud H AlDubayan<sup>\*</sup></em>, Abstract, Under Review (June 2022)
 
+1. <ins>CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods</ins>, <em>**The Critical Assessment of Genome Interpretation Consortium**</em> (May 2022). <span style="color:blue">arXiv</span> [http://arxiv.org/abs/2205.05897](http://arxiv.org/abs/2205.05897)
 
-
-<ins>CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods</ins>, <em>**The Critical Assessment of Genome Interpretation Consortium**</em> (2022). <span style="color:blue">arXiv</span> [http://arxiv.org/abs/2205.05897](http://arxiv.org/abs/2205.05897)
-
+1. <ins>The influence of genetic predisposition and physical activity on risk of Gestational Diabetes Mellitus in the nuMoM2b cohort</ins>, <em>Kymberleigh A. Pagel<sup>#</sup>, <span style="color:red">**Hoyin Chu**</span><sup>#</sup>, Rashika Ramola<sup>#</sup>,  Rafael F. Guerrero, Judith H. Chung, Samuel Parry, Uma M. Reddy, Robert M. Silver, Jonathan G. Steller, Lynn M. Yee, Ronald J. Wapner, Matthew W. Hahn, Sriraam Natarajan, David M. Haas<sup>\*</sup>, Predrag Radivojac<sup>\*</sup></em> (March 2022). <span style="color:blue">medRxiv</span> [https://doi.org/10.1101/2022.03.08.22271868](https://doi.org/10.1101/2022.03.08.22271868)
 
 <br/>
 
@@ -31,17 +35,17 @@ author_profile: true
 
 2022
 
-<ins>Multi-modal characterization of ultra-rare germline genetic variants driving breast cancer risk in the indigenous Arab population</ins>, <em><span style="color:red">**Hoyin Chu**</span>, Abdullah Al-Sulaiman, Mohammed Al-Jumaan, Seunghun Han, Sabrina Y. Camp, Riaz Gillani, Yousef Al Marzooq, Fatmah Almulhim, Chitti Babu Vatte, Arij Alnimer, Afnan Almuhanna, Eliezer Van Allen, Amein Al-Ali, Saud H AlDubayan</em>, Poster Presentation, to be presented in the <span style="color:blue">Annual Meeting of The American Society of Human Genetics </span>, Octorber 25-29, Los Angeles
+1. <ins>Multi-modal characterization of ultra-rare germline genetic variants driving breast cancer risk in the indigenous Arab population</ins>, <em><span style="color:red">**Hoyin Chu**</span>, Abdullah Al-Sulaiman, Mohammed Al-Jumaan, Seunghun Han, Sabrina Y. Camp, Riaz Gillani, Yousef Al Marzooq, Fatmah Almulhim, Chitti Babu Vatte, Arij Alnimer, Afnan Almuhanna, Eliezer Van Allen, Amein Al-Ali, Saud H AlDubayan</em>, Abstract, Poster Presentation, to be presented in the <span style="color:blue">Annual Meeting of The American Society of Human Genetics </span>, Octorber 25-29, Los Angeles
 
-<ins>Germline predisposition to pediatric Ewing sarcoma is characterized by inherited pathogenic variants in DNA damage repair genes</ins>, <em>Riaz Gillani, Sabrina Y. Camp, Seunghun Han, Jill K. Jones, **Hoyin Chu**, Schuyler O’Brien, Erin L. Young, Lucy Hayes, Gareth Mitchell, Trent Fowler, Alexander Gusev, Junne Kamihara, Katherine A. Janeway, Joshua D. Schiffman, Brian D. Crompton<sup>\*</sup>, Saud H. AlDubayan<sup>\*</sup>, Eliezer M. Van Allen<sup>\*</sup></em>, <span style="color:blue">The American Journal of Human Genetics</span>, [https://doi.org/10.1016/j.ajhg.2022.04.007](https://doi.org/10.1016/j.ajhg.2022.04.007)
+1. <ins>Germline predisposition to pediatric Ewing sarcoma is characterized by inherited pathogenic variants in DNA damage repair genes</ins>, <em>Riaz Gillani, Sabrina Y. Camp, Seunghun Han, Jill K. Jones, **Hoyin Chu**, Schuyler O’Brien, Erin L. Young, Lucy Hayes, Gareth Mitchell, Trent Fowler, Alexander Gusev, Junne Kamihara, Katherine A. Janeway, Joshua D. Schiffman, Brian D. Crompton<sup>\*</sup>, Saud H. AlDubayan<sup>\*</sup>, Eliezer M. Van Allen<sup>\*</sup></em>, <span style="color:blue">The American Journal of Human Genetics</span>, [https://doi.org/10.1016/j.ajhg.2022.04.007](https://doi.org/10.1016/j.ajhg.2022.04.007) (May 2022)
 
 <br/>
 
 ---
 
-<!-- You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u> -->
+Last update: 2022-08-20
 
-Last update: 2022-08-07
+<!--To add: NIMBUS and OGCT-->
 
 
 <!-- {% if author.googlescholar %}
