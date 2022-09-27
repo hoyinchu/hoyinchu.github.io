@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+Here is my full CV updated as of 2022-09-26:
+
+<embed src="https://hoyinchu.github.io/files/Hoyin_Chu_CV.pdf" type="application/pdf" />
+
+
+In short:
+
 Education
 ======
 * B.S. in Computer Science and Mathematics, Northeastern University, 2021
@@ -35,16 +42,8 @@ Work experience
 * July 2018 - December 2018: Front-end Engineer at BlockTEST
 
 
-Skills
-======
-* Constructing Large-scale Genomics Pipeline using Cloud Computing Platform (GCP,Terra)
-  * Retrieving public raw sequencing reads from Sequencing Reads Archive (SRA)
-  * Aligning FASTQ files to various assemblies 
-  * Calling variants using deep learning 
-  * Constructing reference panel
-  * Computing Polygenic Risk Score
 
-Last update: 2021
+Last update: 2022-09-26
 
 <!-- Publications
 ======
