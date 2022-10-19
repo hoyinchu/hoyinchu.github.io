@@ -11,7 +11,7 @@ redirect_from:
 
 Here is my full CV updated as of 2022-09-26:
 
-<embed src="https://hoyinchu.github.io/files/Hoyin_Chu_CV.pdf" type="application/pdf" />
+<embed src="/files/Hoyin_Chu_CV.pdf" type="application/pdf" />
 
 
 In short:

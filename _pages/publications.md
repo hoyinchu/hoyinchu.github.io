@@ -53,9 +53,6 @@ You can also find my papers on <u><a href="{{author.googlescholar}}">my Google S
 
 Last update: 2022-10-12
 
-<!--To add: NIMBUS and OGCT-->
-
-
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %} -->
