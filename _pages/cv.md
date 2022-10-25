@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here is my full CV updated as of 2022-09-26:
+Here is my full CV updated as of 2022-10-24:
 
 <embed src="/files/Hoyin_Chu_CV.pdf" type="application/pdf" />
 
@@ -43,7 +43,7 @@ Work experience
 
 
 
-Last update: 2022-09-26
+Last update: 2022-10-24
 
 <!-- Publications
 ======
