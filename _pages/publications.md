@@ -12,21 +12,24 @@ You can also find my papers on <u><a href="{{author.googlescholar}}">my Google S
 
 <span style="color:red">First / Joint First Author</span>; **Co-author**; \# Joint first authors; \* Corresponding author(s); <span style="color:blue">Journal or Conference</span>
 
-# Preprint
+# Submitted / Preprints
 
 2022
 
-1. <ins>Patients with Deleterious Germline Variants in STXBP2 Develop Toxicity after CAR-T Cell Therapy with Axicabtagene Ciloleucel</ins>, <em>Mark Leick, Seunghun Han, Kathleen Gallagher, Harrison Silva, Grace Martin, Sarbina Camp, **Hoyin Chu**, Riaz Gillani, Michael Kann, Bryan Choi, Rebecca Larson, Merle Phillips, Tamina Kienka, Stefanie Bailey, Charlotte Graham, Christopher Reilly, Max Jan, Elba Gonzalez, Nora Horick, Justin Budka, Simone Filosto, Rhine Shen, Eliezer Van Allen, Saud AlDubayan, Marcela Maus</em>, Abstract, Under Review (Submitted Aug 2022)
+1. <ins>Low-pass Whole Genome Imputation Enables the Detection of Polygenic Breast Cancer Risk in Understudied Populations</ins>, Mohammed Al-Jumaan<sup>#</sup>, <span style="color:red">**Hoyin Chu**</span><sup>#</sup>, Abdullah Al-Sulaiman, Yousef Al Marzooq, Fatmah Almulhim, Chitti Babu Vatte, Areej Al Nemer, Afnan Almuhanna, Amein Al-Ali<sup>\*</sup>, Saud H AlDubayan<sup>\*</sup>, Under Review (Submitted Octorber 2022)
 
-1. <ins>Characteristics of rare germline ATM variants in chronic lymphocytic leukemia</ins>, <em>Kiyomi Mashima, Benjamin Lampson, Aditi Gupta, Nicholas Moore, Anna Petráčková,　Samantha Shupe, Stacey Fernandes, Amaro Taylor-Weiner, Riaz Gillani, **Hoyin Chu**, Seunghun Han, Sabrina Camp, Eric Kofman, Gad Getz, Catherine Wu, Eliezer Mendel Van Allen, Saud AlDubayan, Jennifer Brown</em>, Abstract, Under Review (Submitted July 2022)
 
-1. <ins>NIMBUS: A phase II study of nivolumab plus low dose ipilimumab in hypermutated HER2-negative metastatic breast cancer</ins>, Romualdo Barroso-Sousa, Tianyu Li, Sangeetha Reddy, Leisha A. emens, Saud H. AlDubayan, **Hoyin Chu**, Beth Overmoyer, Edward T. Richardson III, Paulina Lange, Molly K. DiLullo, Juelie Kasparian, Melissa E. Hughes, Victoria Attaya, Ameer Basta, Nancy U. Lin, Nabihah Tayob, Elizabeth A. Mittendorf, Sara M. Tolaney, Under Review (Submitted July 2022)
+2. <ins>Patients with Deleterious Germline Variants in STXBP2 Develop Toxicity after CAR-T Cell Therapy with Axicabtagene Ciloleucel</ins>, <em>Mark Leick, Seunghun Han, Kathleen Gallagher, Harrison Silva, Grace Martin, Sarbina Camp, **Hoyin Chu**, Riaz Gillani, Michael Kann, Bryan Choi, Rebecca Larson, Merle Phillips, Tamina Kienka, Stefanie Bailey, Charlotte Graham, Christopher Reilly, Max Jan, Elba Gonzalez, Nora Horick, Justin Budka, Simone Filosto, Rhine Shen, Eliezer Van Allen, Saud AlDubayan, Marcela Maus</em>, Abstract, Under Review (Submitted Aug 2022)
 
-1. <ins>Molecular landscape and clinical actionability of pharmacogenomic variants in unselected breast cancer patients from the indigenous Arab population</ins> <em>Abdullah Al-Sulaiman<sup>#</sup>, <span style="color:red">**Hoyin Chu**</span><sup>#</sup>, Mohammed Al-Jumaan, Mohammed Alyahya, Yousef Al Marzooq, Fatmah Almulhim, Chitti Babu Vatte, Arij Alnimer, Afnan Almuhanna, Amein Al-Ali<sup>\*</sup>, Saud H AlDubayan<sup>\*</sup></em>, Abstract, Under Review (Submitted June 2022)
+3. <ins>Characteristics of rare germline ATM variants in chronic lymphocytic leukemia</ins>, <em>Kiyomi Mashima, Benjamin Lampson, Aditi Gupta, Nicholas Moore, Anna Petráčková,　Samantha Shupe, Stacey Fernandes, Amaro Taylor-Weiner, Riaz Gillani, **Hoyin Chu**, Seunghun Han, Sabrina Camp, Eric Kofman, Gad Getz, Catherine Wu, Eliezer Mendel Van Allen, Saud AlDubayan, Jennifer Brown</em>, Abstract, Under Review (Submitted July 2022)
 
-1. <ins>Germline loss of function variants in CHEK2 and susceptibility to Ovarian Germ Cell Tumors</ins>, Sabrina Y. Camp, Stephanie A. Cohen, Kelsey Moriarty, Seyram Doe-Tetteh, Eric R Kofman, Seunghun Han, Riaz Gillani, Brendan Reardon, Jett Crowdis, **Hoyin Chu**, Tina Alano, Darren Feldman, Anne Marie Noronha, Christopher J. Sweeney, David B. Solit, Saud H. AlDubayan, Eliezer M. Van Allen, Under Review (Submitted June 2022)
+4. <ins>NIMBUS: A phase II study of nivolumab plus low dose ipilimumab in hypermutated HER2-negative metastatic breast cancer</ins>, Romualdo Barroso-Sousa, Tianyu Li, Sangeetha Reddy, Leisha A. emens, Saud H. AlDubayan, **Hoyin Chu**, Beth Overmoyer, Edward T. Richardson III, Paulina Lange, Molly K. DiLullo, Juelie Kasparian, Melissa E. Hughes, Victoria Attaya, Ameer Basta, Nancy U. Lin, Nabihah Tayob, Elizabeth A. Mittendorf, Sara M. Tolaney, Under Review (Submitted July 2022)
 
-1. <ins>CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods</ins>, <em>**The Critical Assessment of Genome Interpretation Consortium**</em> <span style="color:blue">arXiv</span> [http://arxiv.org/abs/2205.05897](http://arxiv.org/abs/2205.05897)  (Submitted May 2022).
+5. <ins>Molecular landscape and clinical actionability of pharmacogenomic variants in unselected breast cancer patients from the indigenous Arab population</ins> <em>Abdullah Al-Sulaiman<sup>#</sup>, <span style="color:red">**Hoyin Chu**</span><sup>#</sup>, Mohammed Al-Jumaan, Mohammed Alyahya, Yousef Al Marzooq, Fatmah Almulhim, Chitti Babu Vatte, Arij Alnimer, Afnan Almuhanna, Amein Al-Ali<sup>\*</sup>, Saud H AlDubayan<sup>\*</sup></em>, Abstract, Under Review (Submitted June 2022)
+
+6. <ins>Germline loss of function variants in CHEK2 and susceptibility to Ovarian Germ Cell Tumors</ins>, Sabrina Y. Camp, Stephanie A. Cohen, Kelsey Moriarty, Seyram Doe-Tetteh, Eric R Kofman, Seunghun Han, Riaz Gillani, Brendan Reardon, Jett Crowdis, **Hoyin Chu**, Tina Alano, Darren Feldman, Anne Marie Noronha, Christopher J. Sweeney, David B. Solit, Saud H. AlDubayan, Eliezer M. Van Allen, Under Review (Submitted June 2022)
+
+7. <ins>CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods</ins>, <em>**The Critical Assessment of Genome Interpretation Consortium**</em> <span style="color:blue">arXiv</span> [http://arxiv.org/abs/2205.05897](http://arxiv.org/abs/2205.05897)  (Submitted May 2022).
 
 
 <br/>
