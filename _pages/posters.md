@@ -10,7 +10,7 @@ author_profile: true
 
 ## ASHG 2022
 
-Title: Multi-modal characterization of ultra-rare germline genetic variants driving breast cancer risk in the indigenous Arab population
+### Title: Multi-modal characterization of ultra-rare germline genetic variants driving breast cancer risk in the indigenous Arab population
 
 Abstract Link: [https://eppro01.ativ.me/appinfo.php?page=IntHtml&project=ASHG22&id=1676&server=eppro01.ativ.me](https://eppro01.ativ.me/appinfo.php?page=IntHtml&project=ASHG22&id=1676&server=eppro01.ativ.me)
 
@@ -19,7 +19,7 @@ Poster:
 
 <br/>
 
-Title: Association of Genetic Predisposition and Physical Activity With Risk of Gestational Diabetes in Nulliparous Women
+### Title: Association of Genetic Predisposition and Physical Activity With Risk of Gestational Diabetes in Nulliparous Women
 
 Abstract Link: [https://eppro01.ativ.me/appinfo.php?page=IntHtml&project=ASHG22&id=847&server=eppro01.ativ.me](https://eppro01.ativ.me/appinfo.php?page=IntHtml&project=ASHG22&id=847&server=eppro01.ativ.me)
 
