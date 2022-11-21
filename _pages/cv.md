@@ -9,12 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Here is my full CV updated as of 2022-10-24:
-
 <embed src="/files/Hoyin_Chu_CV.pdf" type="application/pdf" />
 
 
-In short:
+<!-- In short:
 
 Education
 ======
@@ -39,9 +37,12 @@ Work experience
 
 * July 2019 - December 2019: Software Engineer at Chewy
 
-* July 2018 - December 2018: Front-end Engineer at BlockTEST
+* July 2018 - December 2018: Front-end Engineer at BlockTEST -->
 
-Last update: 2022-11-06
+---
+<a href="#top">Back to top</a>
+<br/>
+Last update: 2022-11-21
 
 
 <!-- Publications
