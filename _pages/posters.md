@@ -10,7 +10,7 @@ author_profile: true
 
 ## ASHG 2022
 
-<img src="/images/posters/ASHG_2022_Photo.jpg" alt="ASHG 2022 Poster Presentation" style="max-height: 100px; height: 100%; width: auto;">
+<img src="/images/posters/ASHG_2022_Photo.jpg" alt="ASHG 2022 Poster Presentation" style="max-height: 300px; height: 100%; width: auto;">
 
 ### Title: Multi-modal characterization of ultra-rare germline genetic variants driving breast cancer risk in the indigenous Arab population
 
