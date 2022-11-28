@@ -10,8 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-<img src="/images/van_allen_lab_group_photo.png" alt="Group Photo with the Van Allen Lab" width="200"/>
-
+<img src="/images/van_allen_lab_group_photo.png" alt="Group Photo with the Van Allen Lab" style="max-width: 100%; height: auto;"/>
 
 Hi there this is Hoyin. I am a computational biologist at the Dana-Farber Cancer Institute and I work closely with my advisors [Saud AlDubayan](https://www.dfhcc.harvard.edu/insider/member-detail/member/saud-h-aldubayan-md/) and [Elizer Van Allen](https://vanallenlab.dana-farber.org/). Previously I have also worked with [Predrag Radivojac](https://www.ccs.neu.edu/home/radivojac/) and I can't thank him enough for introducing me to the world of research. My overall interest is in precision health, in particular how to incorporate an invidual's genomic information into clinical management. Currently my research focuses on understanding the genetic architecture of breast cancer in understudied populations using machine learning approaches, and translating biological findings into clinical actions. You can find some of my work in the [Publications](/publications/) page, [Abstracts](/abstracts/), or on my [CV](/cv/).
 
