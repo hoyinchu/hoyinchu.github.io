@@ -10,6 +10,8 @@ author_profile: true
 
 ## ASHG 2022
 
+<img src="/images/posters/ASHG_2022_Photo.jpg" alt="drawing" height="200"/>
+
 ### Title: Multi-modal characterization of ultra-rare germline genetic variants driving breast cancer risk in the indigenous Arab population
 
 Abstract Link: [https://eppro01.ativ.me/appinfo.php?page=IntHtml&project=ASHG22&id=1676&server=eppro01.ativ.me](https://eppro01.ativ.me/appinfo.php?page=IntHtml&project=ASHG22&id=1676&server=eppro01.ativ.me)
