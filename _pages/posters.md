@@ -7,6 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
+## PSB 2023
+
+### Title: Using Association Rules to Understand the Risk of Adverse Pregnancy Outcomes in a Diverse Population
+
+Poster:
+
+<embed src="/files/nuMOM2b_disparity_poster.pdf" type="application/pdf"/>
 
 ## ASHG 2022
 
@@ -17,6 +24,7 @@ author_profile: true
 Abstract Link: [https://eppro01.ativ.me/appinfo.php?page=IntHtml&project=ASHG22&id=1676&server=eppro01.ativ.me](https://eppro01.ativ.me/appinfo.php?page=IntHtml&project=ASHG22&id=1676&server=eppro01.ativ.me)
 
 Poster:
+
 <embed src="/files/ASHG_2022_Presentation.pdf" type="application/pdf"/>
 
 <br/>
@@ -26,6 +34,7 @@ Poster:
 Abstract Link: [https://eppro01.ativ.me/appinfo.php?page=IntHtml&project=ASHG22&id=847&server=eppro01.ativ.me](https://eppro01.ativ.me/appinfo.php?page=IntHtml&project=ASHG22&id=847&server=eppro01.ativ.me)
 
 Poster:
+
 <embed src="/files/nuMoM2b_poster_ASHG_2022.pdf" type="application/pdf"/>
 
 ---
