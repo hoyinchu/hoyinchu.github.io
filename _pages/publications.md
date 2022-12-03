@@ -17,7 +17,7 @@ You can also find my papers on <u><a href="{{author.googlescholar}}">my Google S
 
 2022
 
-1. <ins>Low-pass Whole Genome Imputation Enables the Detection of Polygenic Breast Cancer Risk in Understudied Populations</ins>, Mohammed Al-Jumaan<sup>#</sup>, <span style="color:red">**Hoyin Chu**</span><sup>#</sup>, Abdullah Al-Sulaiman, Yousef Al Marzooq, Fatmah Almulhim, Chitti Babu Vatte, Areej Al Nemer, Afnan Almuhanna, Amein Al-Ali<sup>\*</sup>, Saud H AlDubayan<sup>\*</sup>, Under Review (Submitted November 2022)
+1. <ins>Low-pass Whole Genome Imputation Enables the Characterization of Polygenic Breast Cancer Risk in the Indigenous Arab Population</ins>, Mohammed Al-Jumaan<sup>#</sup>, <span style="color:red">**Hoyin Chu**</span><sup>#</sup>, Abdullah Al-Sulaiman, Sabrina Y. Camp, Seunghun Han, Riaz Gillani, Yousef Al Marzooq, Fatmah Almulhim, Chitti Babu Vatte, Areej Al Nemer, Afnan Almuhanna, Eliezer M. Van Allen, Amein Al-Ali<sup>\*</sup>, Saud H. AlDubayan<sup>\*</sup>, Under Review (Submitted November 2022), [PDF](../files/Germline_lpWGS_Arab_Breast_Cancer_Paper_Draft.pdf), [Supplementary Table](../files/Supplementary_Tables.xlsx)
 
 2. <ins>NIMBUS: A phase II study of nivolumab plus low dose ipilimumab in hypermutated HER2-negative metastatic breast cancer</ins>, Romualdo Barroso-Sousa, Tianyu Li, Sangeetha Reddy, Leisha A. emens, Saud H. AlDubayan, **Hoyin Chu**, Beth Overmoyer, Edward T. Richardson III, Paulina Lange, Molly K. DiLullo, Juelie Kasparian, Melissa E. Hughes, Victoria Attaya, Ameer Basta, Nancy U. Lin, Nabihah Tayob, Elizabeth A. Mittendorf, Sara M. Tolaney, Under Review (Submitted July 2022)
 
@@ -47,7 +47,7 @@ You can also find my papers on <u><a href="{{author.googlescholar}}">my Google S
 ---
 <a href="#top">Back to top</a>
 <br/>
-Last update: 2022-11-28
+Last update: 2022-11-30
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
