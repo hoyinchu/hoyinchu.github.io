@@ -34,7 +34,7 @@ You can also find my papers on <u><a href="{{author.googlescholar}}">my Google S
 
 2023
 
-1. <ins>Using Association Rules to Understand the Risk of Adverse Pregnancy Outcomes in a Diverse Population</ins>,  <em><span style="color:red">**Hoyin Chu**</span>, Rashika Ramola, Shantanu Jain, David M. Haas, Sriraam Natarajan, Predrag Radivojac<sup>\*</sup></em>, <span style="color:blue">Pacific Symposium on Biocomputing</span>, accepted for publication and **oral presentation**, (Will be Published on PubMed in Jan 2023) [PDF](https://hoyinchu.github.io/files/Chu_PSB_2023_Camera_Ready.pdf)
+1. <ins>Using Association Rules to Understand the Risk of Adverse Pregnancy Outcomes in a Diverse Population</ins>,  <em><span style="color:red">**Hoyin Chu**</span>, Rashika Ramola, Shantanu Jain, David M. Haas, Sriraam Natarajan, Predrag Radivojac<sup>\*</sup></em>, accepted for publication and **oral presentation**, <span style="color:blue">Pacific Symposium on Biocomputing</span>, [PubMed Central ID: PMC9782715](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9782715/)
 
 2022
 
