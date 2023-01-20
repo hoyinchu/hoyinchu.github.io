@@ -15,6 +15,9 @@ You can also find my papers on <u><a href="{{author.googlescholar}}">my Google S
 
 # Submitted
 
+2023
+1. <ins>Integrative Analysis of Germline Rare Variants in Clear and Non-Clear Cell Renal Cell Carcinoma</ins>, Seunghun Han, Sabrina Y. Camp, **Hoyin Chu**, Ryan Collins, Riaz Gillani, Jihye Park, Ziad Bakouny, Cora A. Ricker, Brendan Reardon, Nicholas Moore, Eric Kofman, Chris Labaki, David Braun, Toni K. Choueiri, Saud H. AlDubayan, Eliezer M. Van Allen, <span style="color:blue">medRxiv</span>, [https://doi.org/10.1101/2023.01.18.23284664](https://doi.org/10.1101/2023.01.18.23284664) (Jan 2023)
+
 2022
 
 1. <ins>Low-pass Whole Genome Imputation Enables the Characterization of Polygenic Breast Cancer Risk in the Indigenous Arab Population</ins>, Mohammed Al-Jumaan<sup>#</sup>, <span style="color:red">**Hoyin Chu**</span><sup>#</sup>, Abdullah Al-Sulaiman, Sabrina Y. Camp, Seunghun Han, Riaz Gillani, Yousef Al Marzooq, Fatmah Almulhim, Chitti Babu Vatte, Areej Al Nemer, Afnan Almuhanna, Eliezer M. Van Allen, Amein Al-Ali<sup>\*</sup>, Saud H. AlDubayan<sup>\*</sup>, Under Review (Submitted November 2022), <span style="color:blue">medRxiv</span>, [https://www.medrxiv.org/content/10.1101/2022.12.07.22282785v1](https://www.medrxiv.org/content/10.1101/2022.12.07.22282785v1)  (Dec 2022).
@@ -47,7 +50,7 @@ You can also find my papers on <u><a href="{{author.googlescholar}}">my Google S
 ---
 <a href="#top">Back to top</a>
 <br/>
-Last update: 2022-11-30
+Last update: 2023-01-20
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
