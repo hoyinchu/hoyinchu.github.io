@@ -15,7 +15,7 @@ author_profile: true
 
 Poster:
 
-<img src="/images/posters/AACR_2023_Screenshot.png", alt="AACR 2023 Poster Presentation">
+<img src="/images/posters/AACR_2023_Screenshot.png" alt="AACR 2023 Poster Presentation">
 
 <embed src="/files/AACR_2023_Presentation.pdf" type="application/pdf"/>
 
