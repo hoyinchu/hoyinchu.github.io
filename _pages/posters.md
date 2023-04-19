@@ -7,11 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
+(PDF might not show up on mobile)
+
 ## AACR 2023
 
 ### Title: Patient-partnered Research Enables Germline Characterization of Angiosarcoma Predisposition Genes
 
 Poster:
+
+<img src="/images/posters/AACR_2023_Screenshot.png", alt="AACR 2023 Poster Presentation">
 
 <embed src="/files/AACR_2023_Presentation.pdf" type="application/pdf"/>
 
