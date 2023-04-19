@@ -37,7 +37,7 @@ Abstract Link: [https://eppro01.ativ.me/appinfo.php?page=IntHtml&project=ASHG22&
 
 Poster:
 
-<img src="/images/posters/ASHG_2022_Poster" alt="ASHG 2022 Poster">
+<img src="/images/posters/ASHG_2022_Poster.png" alt="ASHG 2022 Poster">
 
 [PDF Download](/files/ASHG_2022_Presentation.pdf)
 
@@ -49,7 +49,7 @@ Abstract Link: [https://eppro01.ativ.me/appinfo.php?page=IntHtml&project=ASHG22&
 
 Poster:
 
-<img src="/images/posters/ASHG_2022_nuMOM2b_Poster" alt="ASHG 2022 nuMOM2b Poster">
+<img src="/images/posters/ASHG_2022_nuMOM2b_Poster.png" alt="ASHG 2022 nuMOM2b Poster">
 
 [PDF Download](/files/nuMoM2b_poster_ASHG_2022.pdf)
 
