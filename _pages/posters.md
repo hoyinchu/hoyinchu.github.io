@@ -7,6 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
+## AACR 2023
+
+### Title: Patient-partnered Research Enables Germline Characterization of Angiosarcoma Predisposition Genes
+
+Poster:
+
+<embed src="/files/AACR_2023_Presentation.pdf" type="application/pdf"/>
+
 ## PSB 2023
 
 ### Title: Using Association Rules to Understand the Risk of Adverse Pregnancy Outcomes in a Diverse Population
