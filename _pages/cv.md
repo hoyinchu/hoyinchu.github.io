@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <embed src="/files/Hoyin_Chu_CV.pdf" type="application/pdf" />
-
+[CV Download](/files/Hoyin_Chu_CV.pdf)
 
 <!-- In short:
 
