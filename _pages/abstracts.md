@@ -13,18 +13,13 @@ You can also find my papers on <u><a href="{{author.googlescholar}}">my Google S
 
 <span style="color:red">First / Joint First Author</span>; **Co-author**; \# Joint first authors; \* Corresponding author(s); <span style="color:blue">Conference</span>; (P) Presenter; <span style="color:green">Oral Presentation</span>; <span style="color:brown">Poster Presentation</span>;
 
-# Submitted
-
-2022
-
-1. <ins> Patient-partnered Research Enables Germline Characterization of Angiosarcoma Predisposition Genes </ins>, <em><span style="color:red">**Hoyin Chu**</span>, Marissa Hollyer, Seunghun Han, Sabrina Y. Camp, Riaz Gillani, Eliezer Van Allen,
-Nikhil Wagle, Corrie Painter, Saud H AlDubayan,<span style="color:blue"> American Association for Cancer Research (AACR) annual meeting 2023</span> (Submitted November 2022)
-
-<br/>
 
 # Peer-Reviewed
 
 2022
+
+1. <ins> Patient-partnered Research Enables Germline Characterization of Angiosarcoma Predisposition Genes </ins>, <em><span style="color:red">**Hoyin Chu**</span>, Marissa Hollyer, Seunghun Han, Sabrina Y. Camp, Riaz Gillani, Eliezer Van Allen,
+Nikhil Wagle, Corrie Painter, Saud H AlDubayan,<span style="color:blue"> American Association for Cancer Research (AACR) annual meeting 2023</span> (Submitted November 2022) [Link to Poster](/posters/)
 
 1. <ins>Multi-modal characterization of ultra-rare germline genetic variants driving breast cancer risk in the indigenous Arab population</ins>, <em><span style="color:red">**Hoyin Chu**</span>, Abdullah Al-Sulaiman, Mohammed Al-Jumaan, Seunghun Han, Sabrina Y. Camp, Riaz Gillani, Yousef Al Marzooq, Fatmah Almulhim, Chitti Babu Vatte, Arij Alnimer, Afnan Almuhanna, Eliezer Van Allen, Amein Al-Ali, Saud H AlDubayan</em>, <span style="color:brown">Poster Presentation</span>,<span style="color:blue"> Annual Meeting of The American Society of Human Genetics (ASHG) 2022</span> (Submitted October 2022) [Link to Abstract](https://eppro01.ativ.me/web/page.php?page=IntHtml&project=ASHG22&id=1676), [Link to Poster](/posters/)
 
