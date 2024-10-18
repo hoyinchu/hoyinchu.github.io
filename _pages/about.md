@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-<img src="/images/lareau_lab_group_photo.png" alt="Group Photo with the Lareau Lab" style="max-width: 800px; width: 100%; height: auto;"/>
+<img src="/images/lareau_lab_group_photo.jpg" alt="Group Photo with the Lareau Lab" style="max-width: 800px; width: 100%; height: auto;"/>
 
 Hi there this is Hoyin. I am a first-year Ph.D student in the [Tri-Instituional Ph.D. program in Computational Biology and Medicine](https://compbio.triiprograms.org/). My research interest is in understanding how a person's genetic background can affect cancer development and treatment responses, as well as using computational approaches to design and develop cancer therapies. You can find some of my work in the [Publications](/publications/) page, [Abstracts](/abstracts/), or on my [CV](/cv/).
 
