@@ -15,7 +15,9 @@ You can also find my papers on <u><a href="{{author.googlescholar}}">my Google S
 
 # FIRST / CO-FIRST AUTHOR
 
-1. Mohammed Al-Jumaan<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, <em>et al.</em> Interplay of Mendelian and polygenic risk factors in Arab breast cancer patients. **Genome Medicine**. DOI: https://doi.org/10.1186/s13073-023-01220-4
+1. Arthur Chow<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, <em>et al.</em> (2025) Sequence and structural determinants of efficacious de novo chimeric antigen receptors. **bioRxiv**. DOI: https://doi.org/10.64898/2025.12.12.694033
+
+1. Mohammed Al-Jumaan<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, <em>et al.</em> (2023) Interplay of Mendelian and polygenic risk factors in Arab breast cancer patients. **Genome Medicine**. DOI: https://doi.org/10.1186/s13073-023-01220-4
 
 1. Abdullah Al-Sulaiman<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, <em>et al.</em> (2023) Profiling of pharmacogenomic variants in CYP2D6 and DPYD in indigenous Arab breast cancer patients. **Pharmacogenomics**. DOI: https://doi.org/10.2217/pgs-2023-0029
 
@@ -26,7 +28,15 @@ You can also find my papers on <u><a href="{{author.googlescholar}}">my Google S
 
 # CO-AUTHOR
 
-1. Seung Hun Han, Sabrina Y. Camp, Hoyin Chu, <em>et al.</em> (2024) Integrative Analysis of Germline Rare Variants in Clear and Non–clear Cell Renal Cell Carcinoma. **European Urology Open Science** DOI: https://doi.org/10.1016/j.euros.2024.02.006.
+1. Maria Caterina Rotiroti, Aidan M Tousley, **Hoyin Chu**, <em>et al.</em> (2025) Engineering T cells with a membrane-tethered version of SLP-76 overcomes antigen-low resistance to CAR T cell therapy. **Nature Cancer**. DOI: https://doi.org/10.1038/s43018-025-01056-4
+
+1. Mark B Leick, ..., **Hoyin Chu**, <em>et al.</em> (2025) Genomic correlates of clinical CAR-T cell activity. **medRxiv**. DOI: https://doi.org/10.1101/2025.10.08.25337584
+ 
+1. Alexandre Pellan Cheng, ..., **Hoyin Chu**, <em>et al.</em> (2025) Error-corrected flow-based sequencing at whole-genome scale and its application to circulating cell-free DNA profiling. **Nature Methods**. DOI: https://doi.org/10.1038/s41592-025-02648-9
+
+1. Romualdo Barroso-Sousa, ..., **Hoyin Chu**, <em>et al.</em> (2025) Nivolumab plus low-dose ipilimumab in hypermutated HER2-negative metastatic breast cancer: a phase II trial (NIMBUS). **Nature Communications**. DOI: https://doi.org/10.1038/s41467-025-59695-1
+
+1. Seung Hun Han, Sabrina Y. Camp, **Hoyin Chu**, <em>et al.</em> (2024) Integrative Analysis of Germline Rare Variants in Clear and Non–clear Cell Renal Cell Carcinoma. **European Urology Open Science**. DOI: https://doi.org/10.1016/j.euros.2024.02.006.
 
 1. The Critical Assessment of Genome Interpretation Consortium, including **Hoyin Chu**. (2024) CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods. **Genome Biology**. DOI: https://doi.org/10.1186/s13059-023-03113-6
 
