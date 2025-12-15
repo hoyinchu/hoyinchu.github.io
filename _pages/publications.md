@@ -48,7 +48,7 @@ You can also find my papers on <u><a href="{{author.googlescholar}}">my Google S
 ---
 <a href="#top">Back to top</a>
 <br/>
-Last update: 2024-06-08
+Last update: 2025-12-15
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
