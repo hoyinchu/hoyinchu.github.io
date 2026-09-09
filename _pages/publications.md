@@ -11,51 +11,80 @@ This page features full-length papers where I am one of the authors. For confere
 
 You can also find my papers on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
-<sup>#</sup> Denotes equal contributions 
+{% if site.data.publications.footnote %}<p><sup>#</sup> Denotes equal contributions</p>{% endif %}
 
-# FIRST / CO-FIRST AUTHOR
+<style>
+.pub-list { display: flex; flex-direction: column; gap: 16px; margin: 0.75em 0 2.5em; }
+.pub-card {
+  display: flex; gap: 18px;
+  background: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.09);
+  border-radius: 16px;
+  padding: 18px 20px;
+  box-shadow: 0 10px 30px -24px rgba(0, 0, 0, 0.45);
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+.pub-card:hover { transform: translateY(-2px); box-shadow: 0 18px 34px -22px rgba(0, 0, 0, 0.5); }
+.pub-card--featured { border-color: #52adc8; box-shadow: 0 0 0 1px #52adc8 inset, 0 10px 30px -24px rgba(0, 0, 0, 0.45); }
+.pub-card__thumb {
+  flex: 0 0 96px; width: 96px; height: 96px;
+  display: flex; align-items: center; justify-content: center;
+  border: 1px solid rgba(0, 0, 0, 0.08); border-radius: 10px;
+  overflow: hidden; background: #fafafa;
+}
+.pub-card__thumb img { max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; }
+.pub-card__body { flex: 1 1 auto; min-width: 0; }
+.pub-card__title {
+  display: inline-block; font-weight: 700; font-size: 1.05rem; line-height: 1.3;
+  color: #3a9ab5; margin-bottom: 6px;
+}
+.pub-card__title:hover { text-decoration: underline; }
+.pub-card__authors { font-size: 0.92rem; line-height: 1.55; color: #444; margin-bottom: 6px; }
+.pub-card__meta { font-size: 0.8rem; color: #888; letter-spacing: 0.01em; margin-bottom: 10px; }
+.pub-card__venue { font-weight: 700; color: #555; }
+.pub-card__note { color: #b06f2e; font-weight: 600; }
+.pub-card__links { display: flex; flex-wrap: wrap; gap: 8px; }
+.pub-card__links a {
+  font-size: 0.68rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase;
+  color: #555; background: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.15); border-radius: 999px;
+  padding: 5px 12px;
+}
+.pub-card__links a:hover { border-color: #52adc8; color: #3a9ab5; }
+@media (max-width: 560px) {
+  .pub-card { flex-direction: column; gap: 12px; }
+  .pub-card__thumb { flex-basis: auto; }
+}
+</style>
 
-1. Arthur Chow<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, <em>et al.</em> (2025) Sequence and structural determinants of efficacious de novo chimeric antigen receptors. **bioRxiv**. DOI: https://doi.org/10.64898/2025.12.12.694033
-
-1. Mohammed Al-Jumaan<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, <em>et al.</em> (2023) Interplay of Mendelian and polygenic risk factors in Arab breast cancer patients. **Genome Medicine**. DOI: https://doi.org/10.1186/s13073-023-01220-4
-
-1. Abdullah Al-Sulaiman<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, <em>et al.</em> (2023) Profiling of pharmacogenomic variants in CYP2D6 and DPYD in indigenous Arab breast cancer patients. **Pharmacogenomics**. DOI: https://doi.org/10.2217/pgs-2023-0029
-
-1. **Hoyin Chu**, <em>et al.</em> (2023) Using Association Rules to Understand the Risk of Adverse Pregnancy Outcomes in a Diverse Population, **Pacific Symposium on Biocomputing**. DOI: https://doi.org/10.1142/9789811270611_0020
-
-1. Kymberleigh A. Pagel<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, <em>et al.</em> (2022) The influence of genetic predisposition and physical activity on risk of Gestational Diabetes Mellitus in the nuMoM2b cohort. **JAMA Network Open**. DOI: https://doi.org/10.1001/jamanetworkopen.2022.29158
-
-
-# CO-AUTHOR
-
-1. Maria Caterina Rotiroti, Aidan M Tousley, **Hoyin Chu**, <em>et al.</em> (2025) Engineering T cells with a membrane-tethered version of SLP-76 overcomes antigen-low resistance to CAR T cell therapy. **Nature Cancer**. DOI: https://doi.org/10.1038/s43018-025-01056-4
-
-1. Mark B Leick, ..., **Hoyin Chu**, <em>et al.</em> (2025) Genomic correlates of clinical CAR-T cell activity. **medRxiv**. DOI: https://doi.org/10.1101/2025.10.08.25337584
- 
-1. Alexandre Pellan Cheng, ..., **Hoyin Chu**, <em>et al.</em> (2025) Error-corrected flow-based sequencing at whole-genome scale and its application to circulating cell-free DNA profiling. **Nature Methods**. DOI: https://doi.org/10.1038/s41592-025-02648-9
-
-1. Romualdo Barroso-Sousa, ..., **Hoyin Chu**, <em>et al.</em> (2025) Nivolumab plus low-dose ipilimumab in hypermutated HER2-negative metastatic breast cancer: a phase II trial (NIMBUS). **Nature Communications**. DOI: https://doi.org/10.1038/s41467-025-59695-1
-
-1. Seung Hun Han, Sabrina Y. Camp, **Hoyin Chu**, <em>et al.</em> (2024) Integrative Analysis of Germline Rare Variants in Clear and Non–clear Cell Renal Cell Carcinoma. **European Urology Open Science**. DOI: https://doi.org/10.1016/j.euros.2024.02.006.
-
-1. The Critical Assessment of Genome Interpretation Consortium, including **Hoyin Chu**. (2024) CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods. **Genome Biology**. DOI: https://doi.org/10.1186/s13059-023-03113-6
-
-1. Riaz Gillani, Sabrina Y. Camp, Seunghun Han, Jill K. Jones, **Hoyin Chu**, <em>et al.</em> (2022) Germline predisposition to pediatric Ewing sarcoma is characterized by inherited pathogenic variants in DNA damage repair genes. **The American Journal of Human Genetics**. DOI: https://doi.org/10.1016/j.ajhg.2022.04.007
-
-<br/>
-
+{% for section in site.data.publications.sections %}
+<h1 id="{{ section.id }}">{{ section.heading }}</h1>
+<div class="pub-list">
+{% assign section_entries = site.data.publications.entries | where: "section", section.id %}
+{% for pub in section_entries %}
+<div class="pub-card{% if pub.featured %} pub-card--featured{% endif %}">
+  {% if pub.image %}
+  <a class="pub-card__thumb" href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener">
+    <img src="{{ pub.image }}" alt="" loading="lazy">
+  </a>
+  {% endif %}
+  <div class="pub-card__body">
+    <a class="pub-card__title" href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener">{{ pub.title | markdownify | remove: '<p>' | remove: '</p>' | strip }}</a>
+    <div class="pub-card__authors">{{ pub.authors | markdownify | remove: '<p>' | remove: '</p>' | strip }}</div>
+    <div class="pub-card__meta"><span class="pub-card__venue">{{ pub.venue }}</span>{% if pub.year %} &nbsp;&middot;&nbsp; {{ pub.year }}{% endif %}{% if pub.note %} &nbsp;&middot;&nbsp; <span class="pub-card__note">{{ pub.note }}</span>{% endif %}</div>
+    <div class="pub-card__links">
+      <a href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener">DOI</a>
+      {% for link in pub.links %}
+      <a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.text }}</a>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+{% endfor %}
+</div>
+{% endfor %}
 
 ---
 <a href="#top">Back to top</a>
 <br/>
-Last update: 2025-12-15
-
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %} -->
-<!-- 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
+Last update: 2026-09-09

@@ -1,0 +1,134 @@
+# ==========================================================================
+#  PUBLICATIONS  —  content for the /publications/ page
+#
+#  Every entry below is rendered as a card. To add / edit / reorder papers,
+#  just change this file — no HTML needed.
+#
+#  sections:   the headed groups on the page, shown in this order.
+#    id        short key, referenced by each entry's `section:` field
+#    heading   the visible section title
+#
+#  entries:    one card each, shown in the order listed here. Fields:
+#    section   (required)  which section id the card belongs to
+#    title     (required)  paper title  (Markdown / <em> allowed)
+#    authors   (required)  author list  (Markdown + HTML allowed:
+#                          wrap your name in **double asterisks**,
+#                          use <sup>#</sup> for equal-contribution marks)
+#    venue     (required)  journal or preprint server
+#    year      (required)  publication year
+#    doi       (required)  DOI without the "https://doi.org/" prefix;
+#                          the card title and the DOI button link here
+#    image     (optional)  thumbnail path, e.g. /images/pub_thumbs/foo.png
+#    links     (optional)  extra buttons — a list of { text: , url: }
+#    note      (optional)  short pill shown in the meta line
+#    featured  (optional)  true  -> card gets a highlighted border
+# ==========================================================================
+
+footnote: '<sup>#</sup> Denotes equal contributions'
+
+sections:
+  - id: first
+    heading: "First / Co-first Author"
+  - id: coauthor
+    heading: "Co-author"
+
+entries:
+  # ---- First / co-first author -------------------------------------------
+  - section: first
+    title: "Sequence and structural determinants of efficacious de novo chimeric antigen receptors"
+    authors: "Arthur Chow<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, <em>et al.</em>"
+    venue: "Nature Biomedical Engineering"
+    year: 2026
+    doi: "10.1038/s41551-026-01790-9"
+
+  - section: first
+    title: "Patient-partnered multiomics reveals the molecular architecture of angiosarcoma"
+    authors: "**Hoyin Chu**, <em>et al.</em>"
+    venue: "Nature Communications"
+    year: 2026
+    doi: "10.1038/s41467-026-75810-2"
+
+  - section: first
+    title: "Interplay of Mendelian and polygenic risk factors in Arab breast cancer patients"
+    authors: "Mohammed Al-Jumaan<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, <em>et al.</em>"
+    venue: "Genome Medicine"
+    year: 2023
+    doi: "10.1186/s13073-023-01220-4"
+
+  - section: first
+    title: "Profiling of pharmacogenomic variants in CYP2D6 and DPYD in indigenous Arab breast cancer patients"
+    authors: "Abdullah Al-Sulaiman<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, <em>et al.</em>"
+    venue: "Pharmacogenomics"
+    year: 2023
+    doi: "10.2217/pgs-2023-0029"
+
+  - section: first
+    title: "Using Association Rules to Understand the Risk of Adverse Pregnancy Outcomes in a Diverse Population"
+    authors: "**Hoyin Chu**, <em>et al.</em>"
+    venue: "Pacific Symposium on Biocomputing"
+    year: 2023
+    doi: "10.1142/9789811270611_0020"
+
+  - section: first
+    title: "The influence of genetic predisposition and physical activity on risk of Gestational Diabetes Mellitus in the nuMoM2b cohort"
+    authors: "Kymberleigh A. Pagel<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, <em>et al.</em>"
+    venue: "JAMA Network Open"
+    year: 2022
+    doi: "10.1001/jamanetworkopen.2022.29158"
+
+  # ---- Co-author --------------------------------------------------------
+  - section: coauthor
+    title: "Population-scale sequencing resolves determinants of persistent EBV DNA"
+    authors: "Sherry S. Nyeo, ..., **Hoyin Chu**, <em>et al.</em>"
+    venue: "Nature"
+    year: 2026
+    doi: "10.1038/s41586-025-10020-2"
+
+  - section: coauthor
+    title: "Genomic correlates of clinical CAR-T cell activity"
+    authors: "Mark B Leick, ..., **Hoyin Chu**, <em>et al.</em>"
+    venue: "Science Immunology"
+    year: 2026
+    doi: "10.1126/sciimmunol.aef4134"
+
+  - section: coauthor
+    title: "Engineering T cells with a membrane-tethered version of SLP-76 overcomes antigen-low resistance to CAR T cell therapy"
+    authors: "Maria Caterina Rotiroti, Aidan M Tousley, **Hoyin Chu**, <em>et al.</em>"
+    venue: "Nature Cancer"
+    year: 2025
+    doi: "10.1038/s43018-025-01056-4"
+
+  - section: coauthor
+    title: "Error-corrected flow-based sequencing at whole-genome scale and its application to circulating cell-free DNA profiling"
+    authors: "Alexandre Pellan Cheng, ..., **Hoyin Chu**, <em>et al.</em>"
+    venue: "Nature Methods"
+    year: 2025
+    doi: "10.1038/s41592-025-02648-9"
+
+  - section: coauthor
+    title: "Nivolumab plus low-dose ipilimumab in hypermutated HER2-negative metastatic breast cancer: a phase II trial (NIMBUS)"
+    authors: "Romualdo Barroso-Sousa, ..., **Hoyin Chu**, <em>et al.</em>"
+    venue: "Nature Communications"
+    year: 2025
+    doi: "10.1038/s41467-025-59695-1"
+
+  - section: coauthor
+    title: "Integrative Analysis of Germline Rare Variants in Clear and Non–clear Cell Renal Cell Carcinoma"
+    authors: "Seung Hun Han, Sabrina Y. Camp, **Hoyin Chu**, <em>et al.</em>"
+    venue: "European Urology Open Science"
+    year: 2024
+    doi: "10.1016/j.euros.2024.02.006"
+
+  - section: coauthor
+    title: "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods"
+    authors: "The Critical Assessment of Genome Interpretation Consortium, including **Hoyin Chu**"
+    venue: "Genome Biology"
+    year: 2024
+    doi: "10.1186/s13059-023-03113-6"
+
+  - section: coauthor
+    title: "Germline predisposition to pediatric Ewing sarcoma is characterized by inherited pathogenic variants in DNA damage repair genes"
+    authors: "Riaz Gillani, Sabrina Y. Camp, Seunghun Han, Jill K. Jones, **Hoyin Chu**, <em>et al.</em>"
+    venue: "The American Journal of Human Genetics"
+    year: 2022
+    doi: "10.1016/j.ajhg.2022.04.007"
