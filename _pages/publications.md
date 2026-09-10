@@ -56,6 +56,7 @@ You can also find my papers on <u><a href="{{author.googlescholar}}">my Google S
 }
 </style>
 
+{% assign pub_months = "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec" | split: "," %}
 {% for section in site.data.publications.sections %}
 <h1 id="{{ section.id }}">{{ section.heading }}</h1>
 <div class="pub-list">
@@ -70,7 +71,7 @@ You can also find my papers on <u><a href="{{author.googlescholar}}">my Google S
   <div class="pub-card__body">
     <a class="pub-card__title" href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener">{{ pub.title | markdownify | remove: '<p>' | remove: '</p>' | strip }}</a>
     <div class="pub-card__authors">{{ pub.authors | markdownify | remove: '<p>' | remove: '</p>' | strip }}</div>
-    <div class="pub-card__meta"><span class="pub-card__venue">{{ pub.venue }}</span>{% if pub.year %} &nbsp;&middot;&nbsp; {{ pub.year }}{% endif %}{% if pub.note %} &nbsp;&middot;&nbsp; <span class="pub-card__note">{{ pub.note }}</span>{% endif %}</div>
+    <div class="pub-card__meta"><span class="pub-card__venue">{{ pub.venue }}</span>{% if pub.year %} &nbsp;&middot;&nbsp; {% if pub.month %}{% assign pub_mi = pub.month | minus: 1 %}{{ pub_months[pub_mi] }} {% endif %}{{ pub.year }}{% endif %}{% if pub.note %} &nbsp;&middot;&nbsp; <span class="pub-card__note">{{ pub.note }}</span>{% endif %}</div>
     <div class="pub-card__links">
       <a href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener">DOI</a>
       {% for link in pub.links %}
@@ -86,4 +87,4 @@ You can also find my papers on <u><a href="{{author.googlescholar}}">my Google S
 ---
 <a href="#top">Back to top</a>
 <br/>
-Last update: 2026-09-09
+Last update: 2026-09-10

@@ -21,6 +21,8 @@
 #                          <sup>#</sup> for equal-contribution marks.
 #    venue     (required)  journal or preprint server
 #    year      (required)  publication year
+#    month     (optional)  publication month as a number 1-12; shown as
+#                          "Jul 2026" in the meta line when present
 #    doi       (required)  DOI without the "https://doi.org/" prefix;
 #                          the card title and the DOI button link here
 #    image     (optional)  thumbnail under /images/pub_thumbs/  (a paper
@@ -45,6 +47,7 @@ entries:
     authors: "Arthur Chow<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, Ruofan Li, Benan N. Nalbant, Abdul Vehab Dozic, Laura C. Kida, Zeyu Tang, Joseph R. Palmeri, Caleb A. Lareau"
     venue: "Nature Biomedical Engineering"
     year: 2026
+    month: 9
     doi: "10.1038/s41551-026-01790-9"
     image: /images/pub_thumbs/denovo-car-nbe.jpg
 
@@ -53,6 +56,7 @@ entries:
     authors: "**Hoyin Chu**, Marissa Hollyer, Brittany A. Borden, Christopher R. Reilly, Jorge Gómez Tejeda Zañudo, …, Diane M. Diehl, Eliezer M. Van Allen, Nikhil Wagle, Corrie A. Painter, Saud AlDubayan"
     venue: "Nature Communications"
     year: 2026
+    month: 7
     doi: "10.1038/s41467-026-75810-2"
     image: /images/pub_thumbs/angiosarcoma-natcommun.jpg
 
@@ -61,6 +65,7 @@ entries:
     authors: "Mohammed Al-Jumaan<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, Abdullah Alsulaiman, Sabrina Y. Camp, Seunghun Han, Riaz Gillani, Yousef Al Marzooq, Fatmah Almulhim, Chittibabu Vatte, Areej Al Nemer, Afnan Almuhanna, Eliezer M. Van Allen, Amein Al-Ali, Saud H. AlDubayan"
     venue: "Genome Medicine"
     year: 2023
+    month: 9
     doi: "10.1186/s13073-023-01220-4"
     image: /images/pub_thumbs/arab-breast-cancer-genome-medicine.jpg
 
@@ -69,6 +74,7 @@ entries:
     authors: "Abdullah Al-Sulaiman<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, Mohammed Al-Jumaan, Mohammed Alyahya, Yousef Al Marzooq, Fatmah Almulhim, Chittibabu Vatte, Areej Alnimer, Afnan Almuhanna, Amein Al-Ali, Saud H. AlDubayan"
     venue: "Pharmacogenomics"
     year: 2023
+    month: 5
     doi: "10.2217/pgs-2023-0029"
 
   - section: first
@@ -84,6 +90,7 @@ entries:
     authors: "Kymberleigh A. Pagel<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, Rashika Ramola, Rafael F. Guerrero, Judith H. Chung, Samuel Parry, Uma M. Reddy, Robert M. Silver, Jonathan G. Steller, Lynn M. Yee, Ronald J. Wapner, Matthew W. Hahn, Sriraam Natarajan, David M. Haas, Predrag Radivojac"
     venue: "JAMA Network Open"
     year: 2022
+    month: 8
     doi: "10.1001/jamanetworkopen.2022.29158"
     image: /images/pub_thumbs/numom2b-gdm-jama.jpg
 
@@ -93,6 +100,7 @@ entries:
     authors: "Sherry S. Nyeo, Erin M. Cumming, Oliver S. Burren, Meghana S. Pagadala, Jacob C. Gutierrez, Thahmina A. Ali, Laura C. Kida, Yifan Chen, **Hoyin Chu**, Fengyuan Hu, Xueqing Zoe Zou, Benjamin Hollis, Margarete A. Fabre, Stewart MacArthur, Quanli Wang, Leif S. Ludwig, Kushal K. Dey, Slavé Petrovski, Ryan S. Dhindsa, Caleb A. Lareau"
     venue: "Nature"
     year: 2026
+    month: 1
     doi: "10.1038/s41586-025-10020-2"
     image: /images/pub_thumbs/persistent-ebv-nature.jpg
 
@@ -101,6 +109,7 @@ entries:
     authors: "Mark B. Leick, Baihe Sun, Filippo Birocchi, Kathleen M. E. Gallagher, Alexandra Bratt, …, **Hoyin Chu**, …, Ali Hosseini Rad, Rhine R. Shen, Eliezer Van Allen, Saud AlDubayan, Marcela V. Maus"
     venue: "Science Immunology"
     year: 2026
+    month: 7
     doi: "10.1126/sciimmunol.aef4134"
     image: /images/pub_thumbs/cart-genomic-correlates-sciimmunol.jpg
 
@@ -109,6 +118,7 @@ entries:
     authors: "Maria Caterina Rotiroti, Aidan M. Tousley, **Hoyin Chu**, Marco Herrera-Barrera, Antigoni Manousopoulou, Won-Ju Kim, Yajie Yin, Thomas Spencer Parish, Aniela Mitchell, Malcolm Holterhus, Lea Wenting Rysavy, Guillermo Nicolas Dalton, Katherine Ann Freitas, Gernot Kaber, Korbinian N. Kropp, Christopher A. Klebanoff, Ansuman T. Satpathy, Leo D. Wang, Caleb A. Lareau, Robbie G. Majzner"
     venue: "Nature Cancer"
     year: 2025
+    month: 10
     doi: "10.1038/s43018-025-01056-4"
     image: /images/pub_thumbs/slp76-nature-cancer.jpg
 
@@ -117,6 +127,7 @@ entries:
     authors: "Alexandre Pellan Cheng, Adam J. Widman, Anushri Arora, Itai Rusinek, Aaron Sossin, …, **Hoyin Chu**, …, Michael A. Postow, Nicolas Robine, Bishoy M. Faltas, Genevieve Boland, Dan A. Landau"
     venue: "Nature Methods"
     year: 2025
+    month: 4
     doi: "10.1038/s41592-025-02648-9"
     image: /images/pub_thumbs/flow-sequencing-nature-methods.jpg
 
@@ -125,6 +136,7 @@ entries:
     authors: "Romualdo Barroso-Sousa, Jorge Gomez Tejeda Zanudo, Tianyu Li, Sangeetha M. Reddy, Leisha A. Emens, Thomas M. Kuntz, Carolina Alves Costa Silva, Saud H. AlDubayan, **Hoyin Chu**, Beth Overmoyer, Paulina Lange, Molly K. DiLullo, Meagan Montesion, Julie Kasparian, Melissa E. Hughes, Victoria Attaya, Ameer Basta, Nancy U. Lin, Nabihah Tayob, Rinath Jeselsohn, Elizabeth A. Mittendorf, Sara M. Tolaney"
     venue: "Nature Communications"
     year: 2025
+    month: 5
     doi: "10.1038/s41467-025-59695-1"
     image: /images/pub_thumbs/nimbus-nature-communications.jpg
 
@@ -133,6 +145,7 @@ entries:
     authors: "Seung Hun Han, Sabrina Y. Camp, **Hoyin Chu**, Ryan Collins, Riaz Gillani, Jihye Park, Ziad Bakouny, Cora A. Ricker, Brendan Reardon, Nicholas Moore, Eric Kofman, Chris Labaki, David Braun, Toni K. Choueiri, Saud H. AlDubayan, Eliezer M. Van Allen"
     venue: "European Urology Open Science"
     year: 2024
+    month: 4
     doi: "10.1016/j.euros.2024.02.006"
     image: /images/pub_thumbs/rcc-germline-euros.jpg
 
@@ -141,6 +154,7 @@ entries:
     authors: "The Critical Assessment of Genome Interpretation Consortium, Shantanu Jain, Constantina Bakolitsa, Steven E. Brenner, Predrag Radivojac, …, **Hoyin Chu**, …, Anne O'Donnell-Luria, Pauline C. Ng, John Shon, Joris Veltman, Justin M. Zook"
     venue: "Genome Biology"
     year: 2024
+    month: 2
     doi: "10.1186/s13059-023-03113-6"
     image: /images/pub_thumbs/cagi-genome-biology.jpg
 
@@ -149,5 +163,6 @@ entries:
     authors: "Riaz Gillani, Sabrina Y. Camp, Seunghun Han, Jill K. Jones, **Hoyin Chu**, Schuyler O'Brien, Erin L. Young, Lucy Hayes, Gareth Mitchell, Trent Fowler, Alexander Gusev, Junne Kamihara, Katherine A. Janeway, Joshua D. Schiffman, Brian D. Crompton, Saud H. AlDubayan, Eliezer M. Van Allen"
     venue: "The American Journal of Human Genetics"
     year: 2022
+    month: 6
     doi: "10.1016/j.ajhg.2022.04.007"
     image: /images/pub_thumbs/ewing-sarcoma-ajhg.jpg
