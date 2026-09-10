@@ -11,11 +11,14 @@
 #  entries:    one card each, shown in the order listed here. Fields:
 #    section   (required)  which section id the card belongs to
 #    title     (required)  paper title  (Markdown / <em> allowed)
-#    authors   (required)  author list.  Convention: first author, an
-#                          ellipsis for the authors in between, your name
-#                          in **double asterisks**, another ellipsis, then
-#                          the senior / corresponding author(s).
-#                          <sup>#</sup> marks equal contribution.
+#    authors   (required)  full author list, comma separated.
+#                          Convention: spell out every author. If a paper
+#                          has more than 30 authors, keep the first five and
+#                          last five and replace the middle with " … ";
+#                          if Hoyin is one of the hidden middle authors,
+#                          surface his name as " …, **Hoyin Chu**, … ".
+#                          Wrap Hoyin's name in **double asterisks**; use
+#                          <sup>#</sup> for equal-contribution marks.
 #    venue     (required)  journal or preprint server
 #    year      (required)  publication year
 #    doi       (required)  DOI without the "https://doi.org/" prefix;
@@ -39,7 +42,7 @@ entries:
   # ---- First / co-first author -------------------------------------------
   - section: first
     title: "Sequence and structural determinants of efficacious de novo chimeric antigen receptors"
-    authors: "Arthur Chow<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, …, Caleb A. Lareau"
+    authors: "Arthur Chow<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, Ruofan Li, Benan N. Nalbant, Abdul Vehab Dozic, Laura C. Kida, Zeyu Tang, Joseph R. Palmeri, Caleb A. Lareau"
     venue: "Nature Biomedical Engineering"
     year: 2026
     doi: "10.1038/s41551-026-01790-9"
@@ -47,7 +50,7 @@ entries:
 
   - section: first
     title: "Patient-partnered multiomics reveals the molecular architecture of angiosarcoma"
-    authors: "**Hoyin Chu**, …, Corrie A. Painter, Saud AlDubayan"
+    authors: "**Hoyin Chu**, Marissa Hollyer, Brittany A. Borden, Christopher R. Reilly, Jorge Gómez Tejeda Zañudo, …, Diane M. Diehl, Eliezer M. Van Allen, Nikhil Wagle, Corrie A. Painter, Saud AlDubayan"
     venue: "Nature Communications"
     year: 2026
     doi: "10.1038/s41467-026-75810-2"
@@ -55,7 +58,7 @@ entries:
 
   - section: first
     title: "Interplay of Mendelian and polygenic risk factors in Arab breast cancer patients"
-    authors: "Mohammed Al-Jumaan<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, …, Saud H. AlDubayan"
+    authors: "Mohammed Al-Jumaan<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, Abdullah Alsulaiman, Sabrina Y. Camp, Seunghun Han, Riaz Gillani, Yousef Al Marzooq, Fatmah Almulhim, Chittibabu Vatte, Areej Al Nemer, Afnan Almuhanna, Eliezer M. Van Allen, Amein Al-Ali, Saud H. AlDubayan"
     venue: "Genome Medicine"
     year: 2023
     doi: "10.1186/s13073-023-01220-4"
@@ -63,14 +66,14 @@ entries:
 
   - section: first
     title: "Profiling of pharmacogenomic variants in CYP2D6 and DPYD in indigenous Arab breast cancer patients"
-    authors: "Abdullah Al-Sulaiman<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, …, Saud H. AlDubayan"
+    authors: "Abdullah Al-Sulaiman<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, Mohammed Al-Jumaan, Mohammed Alyahya, Yousef Al Marzooq, Fatmah Almulhim, Chittibabu Vatte, Areej Alnimer, Afnan Almuhanna, Amein Al-Ali, Saud H. AlDubayan"
     venue: "Pharmacogenomics"
     year: 2023
     doi: "10.2217/pgs-2023-0029"
 
   - section: first
     title: "Using Association Rules to Understand the Risk of Adverse Pregnancy Outcomes in a Diverse Population"
-    authors: "**Hoyin Chu**, …, Predrag Radivojac"
+    authors: "**Hoyin Chu**, Rashika Ramola, Shantanu Jain, David M. Haas, Sriraam Natarajan, Predrag Radivojac"
     venue: "Pacific Symposium on Biocomputing"
     year: 2023
     doi: "10.1142/9789811270611_0020"
@@ -78,7 +81,7 @@ entries:
 
   - section: first
     title: "The influence of genetic predisposition and physical activity on risk of Gestational Diabetes Mellitus in the nuMoM2b cohort"
-    authors: "Kymberleigh A. Pagel<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, …, Predrag Radivojac"
+    authors: "Kymberleigh A. Pagel<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, Rashika Ramola, Rafael F. Guerrero, Judith H. Chung, Samuel Parry, Uma M. Reddy, Robert M. Silver, Jonathan G. Steller, Lynn M. Yee, Ronald J. Wapner, Matthew W. Hahn, Sriraam Natarajan, David M. Haas, Predrag Radivojac"
     venue: "JAMA Network Open"
     year: 2022
     doi: "10.1001/jamanetworkopen.2022.29158"
@@ -87,7 +90,7 @@ entries:
   # ---- Co-author --------------------------------------------------------
   - section: coauthor
     title: "Population-scale sequencing resolves determinants of persistent EBV DNA"
-    authors: "Sherry S. Nyeo, …, **Hoyin Chu**, …, Caleb A. Lareau"
+    authors: "Sherry S. Nyeo, Erin M. Cumming, Oliver S. Burren, Meghana S. Pagadala, Jacob C. Gutierrez, Thahmina A. Ali, Laura C. Kida, Yifan Chen, **Hoyin Chu**, Fengyuan Hu, Xueqing Zoe Zou, Benjamin Hollis, Margarete A. Fabre, Stewart MacArthur, Quanli Wang, Leif S. Ludwig, Kushal K. Dey, Slavé Petrovski, Ryan S. Dhindsa, Caleb A. Lareau"
     venue: "Nature"
     year: 2026
     doi: "10.1038/s41586-025-10020-2"
@@ -95,7 +98,7 @@ entries:
 
   - section: coauthor
     title: "Genomic correlates of clinical CAR-T cell activity"
-    authors: "Mark B. Leick, …, **Hoyin Chu**, …, Marcela V. Maus"
+    authors: "Mark B. Leick, Baihe Sun, Filippo Birocchi, Kathleen M. E. Gallagher, Alexandra Bratt, …, **Hoyin Chu**, …, Ali Hosseini Rad, Rhine R. Shen, Eliezer Van Allen, Saud AlDubayan, Marcela V. Maus"
     venue: "Science Immunology"
     year: 2026
     doi: "10.1126/sciimmunol.aef4134"
@@ -103,7 +106,7 @@ entries:
 
   - section: coauthor
     title: "Engineering T cells with a membrane-tethered version of SLP-76 overcomes antigen-low resistance to CAR T cell therapy"
-    authors: "Maria Caterina Rotiroti, Aidan M. Tousley, **Hoyin Chu**, …, Robbie G. Majzner"
+    authors: "Maria Caterina Rotiroti, Aidan M. Tousley, **Hoyin Chu**, Marco Herrera-Barrera, Antigoni Manousopoulou, Won-Ju Kim, Yajie Yin, Thomas Spencer Parish, Aniela Mitchell, Malcolm Holterhus, Lea Wenting Rysavy, Guillermo Nicolas Dalton, Katherine Ann Freitas, Gernot Kaber, Korbinian N. Kropp, Christopher A. Klebanoff, Ansuman T. Satpathy, Leo D. Wang, Caleb A. Lareau, Robbie G. Majzner"
     venue: "Nature Cancer"
     year: 2025
     doi: "10.1038/s43018-025-01056-4"
@@ -111,7 +114,7 @@ entries:
 
   - section: coauthor
     title: "Error-corrected flow-based sequencing at whole-genome scale and its application to circulating cell-free DNA profiling"
-    authors: "Alexandre Pellan Cheng, …, **Hoyin Chu**, …, Dan A. Landau"
+    authors: "Alexandre Pellan Cheng, Adam J. Widman, Anushri Arora, Itai Rusinek, Aaron Sossin, …, **Hoyin Chu**, …, Michael A. Postow, Nicolas Robine, Bishoy M. Faltas, Genevieve Boland, Dan A. Landau"
     venue: "Nature Methods"
     year: 2025
     doi: "10.1038/s41592-025-02648-9"
@@ -119,7 +122,7 @@ entries:
 
   - section: coauthor
     title: "Nivolumab plus low-dose ipilimumab in hypermutated HER2-negative metastatic breast cancer: a phase II trial (NIMBUS)"
-    authors: "Romualdo Barroso-Sousa, …, **Hoyin Chu**, …, Sara M. Tolaney"
+    authors: "Romualdo Barroso-Sousa, Jorge Gomez Tejeda Zanudo, Tianyu Li, Sangeetha M. Reddy, Leisha A. Emens, Thomas M. Kuntz, Carolina Alves Costa Silva, Saud H. AlDubayan, **Hoyin Chu**, Beth Overmoyer, Paulina Lange, Molly K. DiLullo, Meagan Montesion, Julie Kasparian, Melissa E. Hughes, Victoria Attaya, Ameer Basta, Nancy U. Lin, Nabihah Tayob, Rinath Jeselsohn, Elizabeth A. Mittendorf, Sara M. Tolaney"
     venue: "Nature Communications"
     year: 2025
     doi: "10.1038/s41467-025-59695-1"
@@ -127,7 +130,7 @@ entries:
 
   - section: coauthor
     title: "Integrative Analysis of Germline Rare Variants in Clear and Non–clear Cell Renal Cell Carcinoma"
-    authors: "Seung Hun Han, Sabrina Y. Camp, **Hoyin Chu**, …, Eliezer M. Van Allen"
+    authors: "Seung Hun Han, Sabrina Y. Camp, **Hoyin Chu**, Ryan Collins, Riaz Gillani, Jihye Park, Ziad Bakouny, Cora A. Ricker, Brendan Reardon, Nicholas Moore, Eric Kofman, Chris Labaki, David Braun, Toni K. Choueiri, Saud H. AlDubayan, Eliezer M. Van Allen"
     venue: "European Urology Open Science"
     year: 2024
     doi: "10.1016/j.euros.2024.02.006"
@@ -135,7 +138,7 @@ entries:
 
   - section: coauthor
     title: "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods"
-    authors: "Shantanu Jain, …, **Hoyin Chu**, …, Steven E. Brenner, Predrag Radivojac"
+    authors: "The Critical Assessment of Genome Interpretation Consortium, Shantanu Jain, Constantina Bakolitsa, Steven E. Brenner, Predrag Radivojac, …, **Hoyin Chu**, …, Anne O'Donnell-Luria, Pauline C. Ng, John Shon, Joris Veltman, Justin M. Zook"
     venue: "Genome Biology"
     year: 2024
     doi: "10.1186/s13059-023-03113-6"
@@ -143,7 +146,7 @@ entries:
 
   - section: coauthor
     title: "Germline predisposition to pediatric Ewing sarcoma is characterized by inherited pathogenic variants in DNA damage repair genes"
-    authors: "Riaz Gillani, …, **Hoyin Chu**, …, Eliezer M. Van Allen"
+    authors: "Riaz Gillani, Sabrina Y. Camp, Seunghun Han, Jill K. Jones, **Hoyin Chu**, Schuyler O'Brien, Erin L. Young, Lucy Hayes, Gareth Mitchell, Trent Fowler, Alexander Gusev, Junne Kamihara, Katherine A. Janeway, Joshua D. Schiffman, Brian D. Crompton, Saud H. AlDubayan, Eliezer M. Van Allen"
     venue: "The American Journal of Human Genetics"
     year: 2022
     doi: "10.1016/j.ajhg.2022.04.007"
