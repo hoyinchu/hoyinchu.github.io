@@ -11,14 +11,17 @@
 #  entries:    one card each, shown in the order listed here. Fields:
 #    section   (required)  which section id the card belongs to
 #    title     (required)  paper title  (Markdown / <em> allowed)
-#    authors   (required)  author list  (Markdown + HTML allowed:
-#                          wrap your name in **double asterisks**,
-#                          use <sup>#</sup> for equal-contribution marks)
+#    authors   (required)  author list.  Convention: first author, an
+#                          ellipsis for the authors in between, your name
+#                          in **double asterisks**, another ellipsis, then
+#                          the senior / corresponding author(s).
+#                          <sup>#</sup> marks equal contribution.
 #    venue     (required)  journal or preprint server
 #    year      (required)  publication year
 #    doi       (required)  DOI without the "https://doi.org/" prefix;
 #                          the card title and the DOI button link here
-#    image     (optional)  thumbnail path, e.g. /images/pub_thumbs/foo.png
+#    image     (optional)  thumbnail under /images/pub_thumbs/  (a paper
+#                          figure / graphical abstract). Omit for no image.
 #    links     (optional)  extra buttons — a list of { text: , url: }
 #    note      (optional)  short pill shown in the meta line
 #    featured  (optional)  true  -> card gets a highlighted border
@@ -36,99 +39,112 @@ entries:
   # ---- First / co-first author -------------------------------------------
   - section: first
     title: "Sequence and structural determinants of efficacious de novo chimeric antigen receptors"
-    authors: "Arthur Chow<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, <em>et al.</em>"
+    authors: "Arthur Chow<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, …, Caleb A. Lareau"
     venue: "Nature Biomedical Engineering"
     year: 2026
     doi: "10.1038/s41551-026-01790-9"
+    image: /images/pub_thumbs/denovo-car-nbe.jpg
 
   - section: first
     title: "Patient-partnered multiomics reveals the molecular architecture of angiosarcoma"
-    authors: "**Hoyin Chu**, <em>et al.</em>"
+    authors: "**Hoyin Chu**, …, Corrie A. Painter, Saud AlDubayan"
     venue: "Nature Communications"
     year: 2026
     doi: "10.1038/s41467-026-75810-2"
+    image: /images/pub_thumbs/angiosarcoma-natcommun.jpg
 
   - section: first
     title: "Interplay of Mendelian and polygenic risk factors in Arab breast cancer patients"
-    authors: "Mohammed Al-Jumaan<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, <em>et al.</em>"
+    authors: "Mohammed Al-Jumaan<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, …, Saud H. AlDubayan"
     venue: "Genome Medicine"
     year: 2023
     doi: "10.1186/s13073-023-01220-4"
+    image: /images/pub_thumbs/arab-breast-cancer-genome-medicine.jpg
 
   - section: first
     title: "Profiling of pharmacogenomic variants in CYP2D6 and DPYD in indigenous Arab breast cancer patients"
-    authors: "Abdullah Al-Sulaiman<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, <em>et al.</em>"
+    authors: "Abdullah Al-Sulaiman<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, …, Saud H. AlDubayan"
     venue: "Pharmacogenomics"
     year: 2023
     doi: "10.2217/pgs-2023-0029"
 
   - section: first
     title: "Using Association Rules to Understand the Risk of Adverse Pregnancy Outcomes in a Diverse Population"
-    authors: "**Hoyin Chu**, <em>et al.</em>"
+    authors: "**Hoyin Chu**, …, Predrag Radivojac"
     venue: "Pacific Symposium on Biocomputing"
     year: 2023
     doi: "10.1142/9789811270611_0020"
+    image: /images/pub_thumbs/association-rules-psb.jpg
 
   - section: first
     title: "The influence of genetic predisposition and physical activity on risk of Gestational Diabetes Mellitus in the nuMoM2b cohort"
-    authors: "Kymberleigh A. Pagel<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, <em>et al.</em>"
+    authors: "Kymberleigh A. Pagel<sup>#</sup>, **Hoyin Chu**<sup>#</sup>, …, Predrag Radivojac"
     venue: "JAMA Network Open"
     year: 2022
     doi: "10.1001/jamanetworkopen.2022.29158"
+    image: /images/pub_thumbs/numom2b-gdm-jama.jpg
 
   # ---- Co-author --------------------------------------------------------
   - section: coauthor
     title: "Population-scale sequencing resolves determinants of persistent EBV DNA"
-    authors: "Sherry S. Nyeo, ..., **Hoyin Chu**, <em>et al.</em>"
+    authors: "Sherry S. Nyeo, …, **Hoyin Chu**, …, Caleb A. Lareau"
     venue: "Nature"
     year: 2026
     doi: "10.1038/s41586-025-10020-2"
+    image: /images/pub_thumbs/persistent-ebv-nature.jpg
 
   - section: coauthor
     title: "Genomic correlates of clinical CAR-T cell activity"
-    authors: "Mark B Leick, ..., **Hoyin Chu**, <em>et al.</em>"
+    authors: "Mark B. Leick, …, **Hoyin Chu**, …, Marcela V. Maus"
     venue: "Science Immunology"
     year: 2026
     doi: "10.1126/sciimmunol.aef4134"
+    image: /images/pub_thumbs/cart-genomic-correlates-sciimmunol.jpg
 
   - section: coauthor
     title: "Engineering T cells with a membrane-tethered version of SLP-76 overcomes antigen-low resistance to CAR T cell therapy"
-    authors: "Maria Caterina Rotiroti, Aidan M Tousley, **Hoyin Chu**, <em>et al.</em>"
+    authors: "Maria Caterina Rotiroti, Aidan M. Tousley, **Hoyin Chu**, …, Robbie G. Majzner"
     venue: "Nature Cancer"
     year: 2025
     doi: "10.1038/s43018-025-01056-4"
+    image: /images/pub_thumbs/slp76-nature-cancer.jpg
 
   - section: coauthor
     title: "Error-corrected flow-based sequencing at whole-genome scale and its application to circulating cell-free DNA profiling"
-    authors: "Alexandre Pellan Cheng, ..., **Hoyin Chu**, <em>et al.</em>"
+    authors: "Alexandre Pellan Cheng, …, **Hoyin Chu**, …, Dan A. Landau"
     venue: "Nature Methods"
     year: 2025
     doi: "10.1038/s41592-025-02648-9"
+    image: /images/pub_thumbs/flow-sequencing-nature-methods.jpg
 
   - section: coauthor
     title: "Nivolumab plus low-dose ipilimumab in hypermutated HER2-negative metastatic breast cancer: a phase II trial (NIMBUS)"
-    authors: "Romualdo Barroso-Sousa, ..., **Hoyin Chu**, <em>et al.</em>"
+    authors: "Romualdo Barroso-Sousa, …, **Hoyin Chu**, …, Sara M. Tolaney"
     venue: "Nature Communications"
     year: 2025
     doi: "10.1038/s41467-025-59695-1"
+    image: /images/pub_thumbs/nimbus-nature-communications.jpg
 
   - section: coauthor
     title: "Integrative Analysis of Germline Rare Variants in Clear and Non–clear Cell Renal Cell Carcinoma"
-    authors: "Seung Hun Han, Sabrina Y. Camp, **Hoyin Chu**, <em>et al.</em>"
+    authors: "Seung Hun Han, Sabrina Y. Camp, **Hoyin Chu**, …, Eliezer M. Van Allen"
     venue: "European Urology Open Science"
     year: 2024
     doi: "10.1016/j.euros.2024.02.006"
+    image: /images/pub_thumbs/rcc-germline-euros.jpg
 
   - section: coauthor
     title: "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods"
-    authors: "The Critical Assessment of Genome Interpretation Consortium, including **Hoyin Chu**"
+    authors: "Shantanu Jain, …, **Hoyin Chu**, …, Steven E. Brenner, Predrag Radivojac"
     venue: "Genome Biology"
     year: 2024
     doi: "10.1186/s13059-023-03113-6"
+    image: /images/pub_thumbs/cagi-genome-biology.jpg
 
   - section: coauthor
     title: "Germline predisposition to pediatric Ewing sarcoma is characterized by inherited pathogenic variants in DNA damage repair genes"
-    authors: "Riaz Gillani, Sabrina Y. Camp, Seunghun Han, Jill K. Jones, **Hoyin Chu**, <em>et al.</em>"
+    authors: "Riaz Gillani, …, **Hoyin Chu**, …, Eliezer M. Van Allen"
     venue: "The American Journal of Human Genetics"
     year: 2022
     doi: "10.1016/j.ajhg.2022.04.007"
+    image: /images/pub_thumbs/ewing-sarcoma-ajhg.jpg

@@ -27,12 +27,11 @@ You can also find my papers on <u><a href="{{author.googlescholar}}">my Google S
 .pub-card:hover { transform: translateY(-2px); box-shadow: 0 18px 34px -22px rgba(0, 0, 0, 0.5); }
 .pub-card--featured { border-color: #52adc8; box-shadow: 0 0 0 1px #52adc8 inset, 0 10px 30px -24px rgba(0, 0, 0, 0.45); }
 .pub-card__thumb {
-  flex: 0 0 96px; width: 96px; height: 96px;
-  display: flex; align-items: center; justify-content: center;
+  flex: 0 0 150px; width: 150px; height: 150px; align-self: flex-start;
   border: 1px solid rgba(0, 0, 0, 0.08); border-radius: 10px;
-  overflow: hidden; background: #fafafa;
+  overflow: hidden; background: #f4f5f6;
 }
-.pub-card__thumb img { max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; }
+.pub-card__thumb img { width: 100%; height: 100%; object-fit: cover; object-position: top left; display: block; }
 .pub-card__body { flex: 1 1 auto; min-width: 0; }
 .pub-card__title {
   display: inline-block; font-weight: 700; font-size: 1.05rem; line-height: 1.3;
@@ -52,8 +51,8 @@ You can also find my papers on <u><a href="{{author.googlescholar}}">my Google S
 }
 .pub-card__links a:hover { border-color: #52adc8; color: #3a9ab5; }
 @media (max-width: 560px) {
-  .pub-card { flex-direction: column; gap: 12px; }
-  .pub-card__thumb { flex-basis: auto; }
+  .pub-card { flex-direction: column; gap: 14px; }
+  .pub-card__thumb { flex-basis: auto; width: 100%; height: 170px; min-height: 0; }
 }
 </style>
 
@@ -65,7 +64,7 @@ You can also find my papers on <u><a href="{{author.googlescholar}}">my Google S
 <div class="pub-card{% if pub.featured %} pub-card--featured{% endif %}">
   {% if pub.image %}
   <a class="pub-card__thumb" href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener">
-    <img src="{{ pub.image }}" alt="" loading="lazy">
+    <img src="{{ pub.image }}" alt="Figure from “{{ pub.title | strip_html }}”" loading="lazy">
   </a>
   {% endif %}
   <div class="pub-card__body">
